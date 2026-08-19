@@ -1,0 +1,11 @@
+.venv/
+__pycache__/
+*.pyc
+
+# don't expose property photos in the repo
+properties/**/photos/*.jpg
+properties/**/photos/*.jpeg
+properties/**/photos/*.png
+properties/**/photos/*.heic
+properties/**/photos/*.zip
+!properties/**/photos/.gitkeep
