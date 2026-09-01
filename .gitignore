@@ -8,4 +8,9 @@ properties/**/photos/*.jpeg
 properties/**/photos/*.png
 properties/**/photos/*.heic
 properties/**/photos/*.zip
+properties/**/photos/**/*.jpg
+properties/**/photos/**/*.jpeg
+properties/**/photos/**/*.png
+properties/**/photos/**/*.heic
+properties/**/photos/**/*.zip
 !properties/**/photos/.gitkeep

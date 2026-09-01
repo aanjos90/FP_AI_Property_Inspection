@@ -1,0 +1,2513 @@
+{
+  "20250927_111303.jpg": {
+    "component": "floor",
+    "component_confidence": 0.9839915633201599,
+    "condition": "damaged flooring, chips stains or cracks",
+    "condition_confidence": 0.4100225865840912,
+    "component_scores": {
+      "door": 0.000896858109626919,
+      "floor": 0.9839915633201599,
+      "wall": 0.0005955726956017315,
+      "window": 0.0004175521607976407,
+      "ceiling": 0.0020895737688988447,
+      "electrical fitting": 0.0005827691056765616,
+      "light fixture": 0.0007327849743887782,
+      "fixture": 0.00498618371784687,
+      "plumbing fitting": 0.0004334259720053524,
+      "sanitary ware": 0.00018197507597506046,
+      "shower enclosure": 0.00011142133007524535,
+      "cabinetry": 0.0048569682985544205,
+      "railing": 0.0001234199444297701
+    },
+    "condition_scores": {
+      "new flooring": 0.22298495471477509,
+      "good condition with minor wear": 0.2135612666606903,
+      "worn or scratched flooring": 0.153431236743927,
+      "damaged flooring, chips stains or cracks": 0.4100225865840912
+    }
+  },
+  "20250927_111351.jpg": {
+    "component": "electrical fitting",
+    "component_confidence": 0.46906793117523193,
+    "condition": "new or like-new fitting",
+    "condition_confidence": 0.32114773988723755,
+    "component_scores": {
+      "door": 0.016807502135634422,
+      "floor": 0.008584251627326012,
+      "wall": 0.014880030415952206,
+      "window": 0.0024249691050499678,
+      "ceiling": 0.04456818103790283,
+      "electrical fitting": 0.46906793117523193,
+      "light fixture": 0.09180168807506561,
+      "fixture": 0.30149340629577637,
+      "plumbing fitting": 0.03491930291056633,
+      "sanitary ware": 0.0007125569391064346,
+      "shower enclosure": 0.010081266053020954,
+      "cabinetry": 0.0028195022605359554,
+      "railing": 0.0018394539365544915
+    },
+    "condition_scores": {
+      "new or like-new fitting": 0.32114773988723755,
+      "good condition fitting": 0.2674368619918823,
+      "worn or aged fitting": 0.17254644632339478,
+      "damaged or missing fitting": 0.23886896669864655
+    }
+  },
+  "20250927_111311.jpg": {
+    "component": "floor",
+    "component_confidence": 0.8672010898590088,
+    "condition": "good condition with minor wear",
+    "condition_confidence": 0.3656034469604492,
+    "component_scores": {
+      "door": 0.014546934515237808,
+      "floor": 0.8672010898590088,
+      "wall": 0.0017257481813430786,
+      "window": 0.0007769704679958522,
+      "ceiling": 0.0081940283998847,
+      "electrical fitting": 0.0053311423398554325,
+      "light fixture": 0.0018000579439103603,
+      "fixture": 0.011391785927116871,
+      "plumbing fitting": 0.018104642629623413,
+      "sanitary ware": 0.0026546157896518707,
+      "shower enclosure": 0.007205404341220856,
+      "cabinetry": 0.06020067632198334,
+      "railing": 0.0008669021190144122
+    },
+    "condition_scores": {
+      "new flooring": 0.2777637243270874,
+      "good condition with minor wear": 0.3656034469604492,
+      "worn or scratched flooring": 0.1673707664012909,
+      "damaged flooring, chips stains or cracks": 0.1892620325088501
+    }
+  },
+  "20250927_111435.jpg": {
+    "component": "electrical fitting",
+    "component_confidence": 0.40681588649749756,
+    "condition": "damaged or missing fitting",
+    "condition_confidence": 0.4273989498615265,
+    "component_scores": {
+      "door": 0.00014200378791429102,
+      "floor": 4.7163659473881125e-05,
+      "wall": 0.00044093059841543436,
+      "window": 7.993359758984298e-05,
+      "ceiling": 0.011034813709557056,
+      "electrical fitting": 0.40681588649749756,
+      "light fixture": 0.1768478900194168,
+      "fixture": 0.2147112488746643,
+      "plumbing fitting": 0.18609729409217834,
+      "sanitary ware": 7.369771628873423e-05,
+      "shower enclosure": 0.003514199983328581,
+      "cabinetry": 0.0001234049123013392,
+      "railing": 7.151957834139466e-05
+    },
+    "condition_scores": {
+      "new or like-new fitting": 0.29007482528686523,
+      "good condition fitting": 0.171052947640419,
+      "worn or aged fitting": 0.11147326231002808,
+      "damaged or missing fitting": 0.4273989498615265
+    }
+  },
+  "20250927_111307.jpg": {
+    "component": "floor",
+    "component_confidence": 0.9887794256210327,
+    "condition": "new flooring",
+    "condition_confidence": 0.38251468539237976,
+    "component_scores": {
+      "door": 0.00020261286408640444,
+      "floor": 0.9887794256210327,
+      "wall": 0.00017676154675427824,
+      "window": 8.432414324488491e-05,
+      "ceiling": 0.0007957930210977793,
+      "electrical fitting": 0.0003130919358227402,
+      "light fixture": 0.000226283329539001,
+      "fixture": 0.00418389355763793,
+      "plumbing fitting": 0.0002279785112477839,
+      "sanitary ware": 0.00012094806879758835,
+      "shower enclosure": 3.975600702688098e-05,
+      "cabinetry": 0.004821514245122671,
+      "railing": 2.772940024442505e-05
+    },
+    "condition_scores": {
+      "new flooring": 0.38251468539237976,
+      "good condition with minor wear": 0.25396737456321716,
+      "worn or scratched flooring": 0.15737374126911163,
+      "damaged flooring, chips stains or cracks": 0.20614425837993622
+    }
+  },
+  "20250927_111222.jpg": {
+    "component": "shower enclosure",
+    "component_confidence": 0.3304610252380371,
+    "condition": "good condition with minor wear",
+    "condition_confidence": 0.4050583243370056,
+    "component_scores": {
+      "door": 0.08409210294485092,
+      "floor": 0.00034560696803964674,
+      "wall": 0.009856066666543484,
+      "window": 0.15796229243278503,
+      "ceiling": 0.003105279291048646,
+      "electrical fitting": 0.0251922644674778,
+      "light fixture": 0.008059014566242695,
+      "fixture": 0.022798331454396248,
+      "plumbing fitting": 0.03310210630297661,
+      "sanitary ware": 0.0013182881521061063,
+      "shower enclosure": 0.3304610252380371,
+      "cabinetry": 0.2429714798927307,
+      "railing": 0.08073604851961136
+    },
+    "condition_scores": {
+      "new or like-new condition": 0.22152478992938995,
+      "good condition with minor wear": 0.4050583243370056,
+      "worn condition, marks or stiff runners": 0.2447247952222824,
+      "damaged condition, cracked glass or broken frame": 0.12869209051132202
+    }
+  },
+  "20250927_111113.jpg": {
+    "component": "door",
+    "component_confidence": 0.6335074305534363,
+    "condition": "good condition with minor wear",
+    "condition_confidence": 0.5402637124061584,
+    "component_scores": {
+      "door": 0.6335074305534363,
+      "floor": 0.0009693725151009858,
+      "wall": 0.001962355338037014,
+      "window": 0.023341769352555275,
+      "ceiling": 9.972593397833407e-05,
+      "electrical fitting": 0.04250797629356384,
+      "light fixture": 0.009949292056262493,
+      "fixture": 0.06912291795015335,
+      "plumbing fitting": 0.1275029480457306,
+      "sanitary ware": 0.002106842352077365,
+      "shower enclosure": 0.011084681376814842,
+      "cabinetry": 0.003915642853826284,
+      "railing": 0.07392899692058563
+    },
+    "condition_scores": {
+      "new or like-new condition": 0.1966339498758316,
+      "good condition with minor wear": 0.5402637124061584,
+      "worn condition, visible marks or scuffs": 0.045179203152656555,
+      "damaged condition, holes cracks or broken hardware": 0.2179231196641922
+    }
+  },
+  "20250927_111252.jpg": {
+    "component": "floor",
+    "component_confidence": 0.9484476447105408,
+    "condition": "new flooring",
+    "condition_confidence": 0.5883529186248779,
+    "component_scores": {
+      "door": 0.0026965588331222534,
+      "floor": 0.9484476447105408,
+      "wall": 0.00693869311362505,
+      "window": 0.00019684646395035088,
+      "ceiling": 0.0031656238716095686,
+      "electrical fitting": 0.001060707145370543,
+      "light fixture": 0.00042775756446644664,
+      "fixture": 0.005372514016926289,
+      "plumbing fitting": 0.0008813636959530413,
+      "sanitary ware": 0.0014382003573700786,
+      "shower enclosure": 0.0006974967545829713,
+      "cabinetry": 0.02816489338874817,
+      "railing": 0.000511717633344233
+    },
+    "condition_scores": {
+      "new flooring": 0.5883529186248779,
+      "good condition with minor wear": 0.21467259526252747,
+      "worn or scratched flooring": 0.08108998090028763,
+      "damaged flooring, chips stains or cracks": 0.11588450521230698
+    }
+  },
+  "20250927_111325.jpg": {
+    "component": "floor",
+    "component_confidence": 0.9433561563491821,
+    "condition": "new flooring",
+    "condition_confidence": 0.5979273319244385,
+    "component_scores": {
+      "door": 0.0003420927678234875,
+      "floor": 0.9433561563491821,
+      "wall": 0.0002325375535292551,
+      "window": 9.293261246057227e-05,
+      "ceiling": 0.0011649343650788069,
+      "electrical fitting": 0.000723747827578336,
+      "light fixture": 0.00021252450824249536,
+      "fixture": 0.002124922117218375,
+      "plumbing fitting": 0.0011029522866010666,
+      "sanitary ware": 0.0008546054014004767,
+      "shower enclosure": 0.0003488598740659654,
+      "cabinetry": 0.04942573606967926,
+      "railing": 1.8048000129056163e-05
+    },
+    "condition_scores": {
+      "new flooring": 0.5979273319244385,
+      "good condition with minor wear": 0.23703928291797638,
+      "worn or scratched flooring": 0.06397286802530289,
+      "damaged flooring, chips stains or cracks": 0.10106048732995987
+    }
+  },
+  "20250927_111323.jpg": {
+    "component": "floor",
+    "component_confidence": 0.9070747494697571,
+    "condition": "new flooring",
+    "condition_confidence": 0.7991304397583008,
+    "component_scores": {
+      "door": 0.0020223343744874,
+      "floor": 0.9070747494697571,
+      "wall": 0.00048267931560985744,
+      "window": 0.00031457762815989554,
+      "ceiling": 0.0007268547778949142,
+      "electrical fitting": 0.0006377458921633661,
+      "light fixture": 0.00024689597194083035,
+      "fixture": 0.0033865340519696474,
+      "plumbing fitting": 0.0024926764890551567,
+      "sanitary ware": 0.0028473234269768,
+      "shower enclosure": 0.007420427165925503,
+      "cabinetry": 0.07228875160217285,
+      "railing": 5.843414692208171e-05
+    },
+    "condition_scores": {
+      "new flooring": 0.7991304397583008,
+      "good condition with minor wear": 0.1255382001399994,
+      "worn or scratched flooring": 0.04131551831960678,
+      "damaged flooring, chips stains or cracks": 0.034015826880931854
+    }
+  },
+  "20250927_111358.jpg": {
+    "component": "electrical fitting",
+    "component_confidence": 0.2712537944316864,
+    "condition": "new or like-new fitting",
+    "condition_confidence": 0.5038217306137085,
+    "component_scores": {
+      "door": 0.003358695423230529,
+      "floor": 1.4869094229652546e-05,
+      "wall": 0.002000002656131983,
+      "window": 0.06889061629772186,
+      "ceiling": 0.017575327306985855,
+      "electrical fitting": 0.2712537944316864,
+      "light fixture": 0.09525863826274872,
+      "fixture": 0.2583463788032532,
+      "plumbing fitting": 0.12885421514511108,
+      "sanitary ware": 0.0027668478433042765,
+      "shower enclosure": 0.11066964268684387,
+      "cabinetry": 0.004827866330742836,
+      "railing": 0.03618314489722252
+    },
+    "condition_scores": {
+      "new or like-new fitting": 0.5038217306137085,
+      "good condition fitting": 0.3113573491573334,
+      "worn or aged fitting": 0.059333667159080505,
+      "damaged or missing fitting": 0.12548723816871643
+    }
+  },
+  "20250927_111228.jpg": {
+    "component": "door",
+    "component_confidence": 0.449899822473526,
+    "condition": "good condition with minor wear",
+    "condition_confidence": 0.5125732421875,
+    "component_scores": {
+      "door": 0.449899822473526,
+      "floor": 0.0020760672632604837,
+      "wall": 0.0002679745957721025,
+      "window": 0.001828785170800984,
+      "ceiling": 0.00013688030594494194,
+      "electrical fitting": 0.0644456297159195,
+      "light fixture": 0.006250203121453524,
+      "fixture": 0.0511634387075901,
+      "plumbing fitting": 0.04736287146806717,
+      "sanitary ware": 0.0037523091305047274,
+      "shower enclosure": 0.012973776087164879,
+      "cabinetry": 0.34529244899749756,
+      "railing": 0.01454982254654169
+    },
+    "condition_scores": {
+      "new or like-new condition": 0.36595508456230164,
+      "good condition with minor wear": 0.5125732421875,
+      "worn condition, visible marks or scuffs": 0.025851478800177574,
+      "damaged condition, holes cracks or broken hardware": 0.09562015533447266
+    }
+  },
+  "20250927_111516.jpg": {
+    "component": "shower enclosure",
+    "component_confidence": 0.6774957776069641,
+    "condition": "good condition with minor wear",
+    "condition_confidence": 0.3458523154258728,
+    "component_scores": {
+      "door": 0.006006430834531784,
+      "floor": 6.188289989950135e-05,
+      "wall": 0.00023654321557842195,
+      "window": 0.0010149686131626368,
+      "ceiling": 0.018667247146368027,
+      "electrical fitting": 0.10938577353954315,
+      "light fixture": 0.010449888184666634,
+      "fixture": 0.015178189612925053,
+      "plumbing fitting": 0.13073770701885223,
+      "sanitary ware": 0.009180103428661823,
+      "shower enclosure": 0.6774957776069641,
+      "cabinetry": 0.021434826776385307,
+      "railing": 0.00015067296044435352
+    },
+    "condition_scores": {
+      "new or like-new condition": 0.14001309871673584,
+      "good condition with minor wear": 0.3458523154258728,
+      "worn condition, marks or stiff runners": 0.19883939623832703,
+      "damaged condition, cracked glass or broken frame": 0.31529518961906433
+    }
+  },
+  "20250927_111510.jpg": {
+    "component": "shower enclosure",
+    "component_confidence": 0.3014688789844513,
+    "condition": "new or like-new condition",
+    "condition_confidence": 0.47016817331314087,
+    "component_scores": {
+      "door": 0.0037198010832071304,
+      "floor": 0.00025747285690158606,
+      "wall": 0.00047495082253590226,
+      "window": 0.005892130546271801,
+      "ceiling": 0.013693476095795631,
+      "electrical fitting": 0.30026206374168396,
+      "light fixture": 0.03919815272092819,
+      "fixture": 0.07000633329153061,
+      "plumbing fitting": 0.13766074180603027,
+      "sanitary ware": 0.006514932494610548,
+      "shower enclosure": 0.3014688789844513,
+      "cabinetry": 0.11851897835731506,
+      "railing": 0.002332027070224285
+    },
+    "condition_scores": {
+      "new or like-new condition": 0.47016817331314087,
+      "good condition with minor wear": 0.40061503648757935,
+      "worn condition, marks or stiff runners": 0.09803253412246704,
+      "damaged condition, cracked glass or broken frame": 0.03118426911532879
+    }
+  },
+  "20250927_111225.jpg": {
+    "component": "door",
+    "component_confidence": 0.7887742519378662,
+    "condition": "good condition with minor wear",
+    "condition_confidence": 0.5431903004646301,
+    "component_scores": {
+      "door": 0.7887742519378662,
+      "floor": 0.004607531242072582,
+      "wall": 0.002217030618339777,
+      "window": 0.007492783013731241,
+      "ceiling": 0.0001500620855949819,
+      "electrical fitting": 0.025559574365615845,
+      "light fixture": 0.0013287545880302787,
+      "fixture": 0.0073233600705862045,
+      "plumbing fitting": 0.06873158365488052,
+      "sanitary ware": 0.0011126177851110697,
+      "shower enclosure": 0.013021429069340229,
+      "cabinetry": 0.07493429630994797,
+      "railing": 0.0047466508112847805
+    },
+    "condition_scores": {
+      "new or like-new condition": 0.21570628881454468,
+      "good condition with minor wear": 0.5431903004646301,
+      "worn condition, visible marks or scuffs": 0.0702885165810585,
+      "damaged condition, holes cracks or broken hardware": 0.1708148717880249
+    }
+  },
+  "20250927_111328.jpg": {
+    "component": "floor",
+    "component_confidence": 0.939482569694519,
+    "condition": "new flooring",
+    "condition_confidence": 0.4347141683101654,
+    "component_scores": {
+      "door": 0.0010917687322944403,
+      "floor": 0.939482569694519,
+      "wall": 0.0016644118586555123,
+      "window": 0.0004977323114871979,
+      "ceiling": 0.004219088703393936,
+      "electrical fitting": 0.007414340972900391,
+      "light fixture": 0.0030704678501933813,
+      "fixture": 0.018459457904100418,
+      "plumbing fitting": 0.005215386860072613,
+      "sanitary ware": 0.0008117886609397829,
+      "shower enclosure": 0.0004716346156783402,
+      "cabinetry": 0.017275724560022354,
+      "railing": 0.00032576153171248734
+    },
+    "condition_scores": {
+      "new flooring": 0.4347141683101654,
+      "good condition with minor wear": 0.18329773843288422,
+      "worn or scratched flooring": 0.05865982919931412,
+      "damaged flooring, chips stains or cracks": 0.32332828640937805
+    }
+  },
+  "20250927_111337.jpg": {
+    "component": "wall",
+    "component_confidence": 0.5987876653671265,
+    "condition": "freshly painted, like-new condition",
+    "condition_confidence": 0.9064685702323914,
+    "component_scores": {
+      "door": 0.06962927430868149,
+      "floor": 0.02974713034927845,
+      "wall": 0.5987876653671265,
+      "window": 0.03973778709769249,
+      "ceiling": 0.013435321860015392,
+      "electrical fitting": 0.017197610810399055,
+      "light fixture": 0.00859555508941412,
+      "fixture": 0.025199206545948982,
+      "plumbing fitting": 0.009844820015132427,
+      "sanitary ware": 0.0005551758222281933,
+      "shower enclosure": 0.02487984299659729,
+      "cabinetry": 0.1596933901309967,
+      "railing": 0.002697190036997199
+    },
+    "condition_scores": {
+      "freshly painted, like-new condition": 0.9064685702323914,
+      "good condition with minor marks": 0.04386119917035103,
+      "worn or faded paint": 0.04001232236623764,
+      "damaged paintwork, peeling cracked or holed": 0.009657823480665684
+    }
+  },
+  "20250927_111528.jpg": {
+    "component": "fixture",
+    "component_confidence": 0.3239274024963379,
+    "condition": "new or like-new condition",
+    "condition_confidence": 0.5604743957519531,
+    "component_scores": {
+      "door": 0.0026487570721656084,
+      "floor": 0.0013487896649166942,
+      "wall": 0.009579015895724297,
+      "window": 0.002585923532024026,
+      "ceiling": 0.001521357917226851,
+      "electrical fitting": 0.09538345783948898,
+      "light fixture": 0.10256052017211914,
+      "fixture": 0.3239274024963379,
+      "plumbing fitting": 0.021071674302220345,
+      "sanitary ware": 0.09361638873815536,
+      "shower enclosure": 0.028922123834490776,
+      "cabinetry": 0.30797791481018066,
+      "railing": 0.008856657892465591
+    },
+    "condition_scores": {
+      "new or like-new condition": 0.5604743957519531,
+      "good condition": 0.32349538803100586,
+      "worn condition": 0.09926150739192963,
+      "damaged condition": 0.01676872931420803
+    }
+  },
+  "20250927_111629.jpg": {
+    "component": "light fixture",
+    "component_confidence": 0.36688169836997986,
+    "condition": "new fixture",
+    "condition_confidence": 0.5110556483268738,
+    "component_scores": {
+      "door": 0.0004040822386741638,
+      "floor": 0.00019763952877838165,
+      "wall": 0.000416185415815562,
+      "window": 0.013917392119765282,
+      "ceiling": 0.22258995473384857,
+      "electrical fitting": 0.07339747250080109,
+      "light fixture": 0.36688169836997986,
+      "fixture": 0.27436432242393494,
+      "plumbing fitting": 0.025044212117791176,
+      "sanitary ware": 9.969130769604817e-05,
+      "shower enclosure": 0.012631438672542572,
+      "cabinetry": 0.009391382336616516,
+      "railing": 0.0006644437089562416
+    },
+    "condition_scores": {
+      "new fixture": 0.5110556483268738,
+      "good condition fixture": 0.19066835939884186,
+      "worn or aged fixture": 0.04000141844153404,
+      "damaged or non-functional fixture": 0.2582746148109436
+    }
+  },
+  "20250927_111250.jpg": {
+    "component": "floor",
+    "component_confidence": 0.8165428638458252,
+    "condition": "good condition with minor wear",
+    "condition_confidence": 0.3267036974430084,
+    "component_scores": {
+      "door": 0.00849926471710205,
+      "floor": 0.8165428638458252,
+      "wall": 0.017096443101763725,
+      "window": 0.003280792385339737,
+      "ceiling": 0.008487051352858543,
+      "electrical fitting": 0.022526150569319725,
+      "light fixture": 0.0019277810351923108,
+      "fixture": 0.010771182365715504,
+      "plumbing fitting": 0.04278194531798363,
+      "sanitary ware": 0.0009448952041566372,
+      "shower enclosure": 0.0038663747254759073,
+      "cabinetry": 0.05899614840745926,
+      "railing": 0.0042790905572474
+    },
+    "condition_scores": {
+      "new flooring": 0.27273955941200256,
+      "good condition with minor wear": 0.3267036974430084,
+      "worn or scratched flooring": 0.19686515629291534,
+      "damaged flooring, chips stains or cracks": 0.20369163155555725
+    }
+  },
+  "20250927_111254.jpg": {
+    "component": "floor",
+    "component_confidence": 0.8321900367736816,
+    "condition": "new flooring",
+    "condition_confidence": 0.5897806286811829,
+    "component_scores": {
+      "door": 0.002211471553891897,
+      "floor": 0.8321900367736816,
+      "wall": 0.0012026220792904496,
+      "window": 0.00013348292850423604,
+      "ceiling": 0.0012713443720713258,
+      "electrical fitting": 0.0009158600005321205,
+      "light fixture": 0.000143594661494717,
+      "fixture": 0.004033148288726807,
+      "plumbing fitting": 0.0031068597454577684,
+      "sanitary ware": 0.004823024850338697,
+      "shower enclosure": 0.002587642753496766,
+      "cabinetry": 0.14725269377231598,
+      "railing": 0.0001282067969441414
+    },
+    "condition_scores": {
+      "new flooring": 0.5897806286811829,
+      "good condition with minor wear": 0.23518498241901398,
+      "worn or scratched flooring": 0.07932547479867935,
+      "damaged flooring, chips stains or cracks": 0.09570889174938202
+    }
+  },
+  "20250927_111349.jpg": {
+    "component": "electrical fitting",
+    "component_confidence": 0.768379807472229,
+    "condition": "damaged or missing fitting",
+    "condition_confidence": 0.38710954785346985,
+    "component_scores": {
+      "door": 0.02292809821665287,
+      "floor": 0.00032722586183808744,
+      "wall": 0.004840073641389608,
+      "window": 0.0011903514387086034,
+      "ceiling": 0.001415843958966434,
+      "electrical fitting": 0.768379807472229,
+      "light fixture": 0.025389598682522774,
+      "fixture": 0.11439694464206696,
+      "plumbing fitting": 0.05390727519989014,
+      "sanitary ware": 0.0015054283430799842,
+      "shower enclosure": 0.003595808520913124,
+      "cabinetry": 0.00168897386174649,
+      "railing": 0.0004346372443251312
+    },
+    "condition_scores": {
+      "new or like-new fitting": 0.24184854328632355,
+      "good condition fitting": 0.19638720154762268,
+      "worn or aged fitting": 0.1746547520160675,
+      "damaged or missing fitting": 0.38710954785346985
+    }
+  },
+  "20250927_111315.jpg": {
+    "component": "floor",
+    "component_confidence": 0.9748955965042114,
+    "condition": "new flooring",
+    "condition_confidence": 0.4738079607486725,
+    "component_scores": {
+      "door": 0.0007913929293863475,
+      "floor": 0.9748955965042114,
+      "wall": 0.0006487608188763261,
+      "window": 5.4136329708853737e-05,
+      "ceiling": 0.0009174402803182602,
+      "electrical fitting": 0.002512117149308324,
+      "light fixture": 0.00029843495576642454,
+      "fixture": 0.0036914637312293053,
+      "plumbing fitting": 0.0032343026250600815,
+      "sanitary ware": 0.0012906924821436405,
+      "shower enclosure": 0.0009581317426636815,
+      "cabinetry": 0.010687331669032574,
+      "railing": 2.0194802345940843e-05
+    },
+    "condition_scores": {
+      "new flooring": 0.4738079607486725,
+      "good condition with minor wear": 0.346271276473999,
+      "worn or scratched flooring": 0.03565596789121628,
+      "damaged flooring, chips stains or cracks": 0.14426477253437042
+    }
+  },
+  "20250927_111415.jpg": {
+    "component": "window",
+    "component_confidence": 0.6684952974319458,
+    "condition": "good condition with minor wear",
+    "condition_confidence": 0.6951621174812317,
+    "component_scores": {
+      "door": 0.02095503732562065,
+      "floor": 0.0014835352776572108,
+      "wall": 0.0022636661306023598,
+      "window": 0.6684952974319458,
+      "ceiling": 7.399807509500533e-05,
+      "electrical fitting": 0.0199239794164896,
+      "light fixture": 0.002229702426120639,
+      "fixture": 0.013375714421272278,
+      "plumbing fitting": 0.10380823910236359,
+      "sanitary ware": 0.005324552301317453,
+      "shower enclosure": 0.06140202283859253,
+      "cabinetry": 0.00541555555537343,
+      "railing": 0.09524871408939362
+    },
+    "condition_scores": {
+      "new or like-new frame and glass": 0.1877359300851822,
+      "good condition with minor wear": 0.6951621174812317,
+      "worn frame or scratched glass": 0.06555987149477005,
+      "damaged frame or glass, cracks rust or broken seals": 0.05154212936758995
+    }
+  },
+  "20250927_111058.jpg": {
+    "component": "plumbing fitting",
+    "component_confidence": 0.2832484841346741,
+    "condition": "good condition fitting, minor wear",
+    "condition_confidence": 0.3489374816417694,
+    "component_scores": {
+      "door": 0.0537957027554512,
+      "floor": 0.0031477289739996195,
+      "wall": 0.00518959853798151,
+      "window": 0.03199087455868721,
+      "ceiling": 0.10253611207008362,
+      "electrical fitting": 0.23161937296390533,
+      "light fixture": 0.048644792288541794,
+      "fixture": 0.10709823668003082,
+      "plumbing fitting": 0.2832484841346741,
+      "sanitary ware": 0.0012500421144068241,
+      "shower enclosure": 0.011273310519754887,
+      "cabinetry": 0.04909836873412132,
+      "railing": 0.07110737264156342
+    },
+    "condition_scores": {
+      "new or like-new fitting": 0.18359537422657013,
+      "good condition fitting, minor wear": 0.3489374816417694,
+      "worn or oxidised fitting": 0.14667178690433502,
+      "damaged or non-functional fitting": 0.3207953870296478
+    }
+  },
+  "20250927_111313.jpg": {
+    "component": "floor",
+    "component_confidence": 0.9012710452079773,
+    "condition": "good condition with minor wear",
+    "condition_confidence": 0.39375001192092896,
+    "component_scores": {
+      "door": 0.009095923975110054,
+      "floor": 0.9012710452079773,
+      "wall": 0.008544047363102436,
+      "window": 0.0011908679734915495,
+      "ceiling": 0.010815282352268696,
+      "electrical fitting": 0.007763672154396772,
+      "light fixture": 0.001375027117319405,
+      "fixture": 0.010061665438115597,
+      "plumbing fitting": 0.0279115941375494,
+      "sanitary ware": 0.0009550130343995988,
+      "shower enclosure": 0.002175369532778859,
+      "cabinetry": 0.01644691824913025,
+      "railing": 0.002393485978245735
+    },
+    "condition_scores": {
+      "new flooring": 0.13121777772903442,
+      "good condition with minor wear": 0.39375001192092896,
+      "worn or scratched flooring": 0.21332287788391113,
+      "damaged flooring, chips stains or cracks": 0.2617093622684479
+    }
+  },
+  "20250927_111345.jpg": {
+    "component": "window",
+    "component_confidence": 0.6354981660842896,
+    "condition": "new or like-new frame and glass",
+    "condition_confidence": 0.8718070983886719,
+    "component_scores": {
+      "door": 0.12428591400384903,
+      "floor": 0.0018566662911325693,
+      "wall": 0.0035263861063867807,
+      "window": 0.6354981660842896,
+      "ceiling": 0.002108020009472966,
+      "electrical fitting": 0.006516508292406797,
+      "light fixture": 0.005192342679947615,
+      "fixture": 0.008802738040685654,
+      "plumbing fitting": 0.003967833239585161,
+      "sanitary ware": 0.0002052293421002105,
+      "shower enclosure": 0.1554814726114273,
+      "cabinetry": 0.05213949456810951,
+      "railing": 0.00041925840196199715
+    },
+    "condition_scores": {
+      "new or like-new frame and glass": 0.8718070983886719,
+      "good condition with minor wear": 0.11600141227245331,
+      "worn frame or scratched glass": 0.0037924160715192556,
+      "damaged frame or glass, cracks rust or broken seals": 0.00839914008975029
+    }
+  },
+  "20250927_111403.jpg": {
+    "component": "window",
+    "component_confidence": 0.9764525294303894,
+    "condition": "good condition with minor wear",
+    "condition_confidence": 0.5029093027114868,
+    "component_scores": {
+      "door": 0.000609610928222537,
+      "floor": 3.224872489226982e-05,
+      "wall": 0.0006379170226864517,
+      "window": 0.9764525294303894,
+      "ceiling": 0.0020271223038434982,
+      "electrical fitting": 0.00030554280965588987,
+      "light fixture": 0.0027852070052176714,
+      "fixture": 0.006801756098866463,
+      "plumbing fitting": 0.00028729491168633103,
+      "sanitary ware": 4.601249020197429e-05,
+      "shower enclosure": 0.00961217749863863,
+      "cabinetry": 0.00017123257566709071,
+      "railing": 0.00023138971300795674
+    },
+    "condition_scores": {
+      "new or like-new frame and glass": 0.46236953139305115,
+      "good condition with minor wear": 0.5029093027114868,
+      "worn frame or scratched glass": 0.002080680802464485,
+      "damaged frame or glass, cracks rust or broken seals": 0.03264051303267479
+    }
+  },
+  "20250927_111617.jpg": {
+    "component": "ceiling",
+    "component_confidence": 0.49632105231285095,
+    "condition": "worn or discoloured",
+    "condition_confidence": 0.529312252998352,
+    "component_scores": {
+      "door": 0.0016482985811308026,
+      "floor": 0.0005604096804745495,
+      "wall": 0.001525465282611549,
+      "window": 0.0030143868643790483,
+      "ceiling": 0.49632105231285095,
+      "electrical fitting": 0.10004198551177979,
+      "light fixture": 0.06556710600852966,
+      "fixture": 0.21252577006816864,
+      "plumbing fitting": 0.08121171593666077,
+      "sanitary ware": 0.0006882252637296915,
+      "shower enclosure": 0.034696392714977264,
+      "cabinetry": 0.0021467336919158697,
+      "railing": 5.24698625667952e-05
+    },
+    "condition_scores": {
+      "freshly painted, like-new condition": 0.16512355208396912,
+      "good condition": 0.2944616973400116,
+      "worn or discoloured": 0.529312252998352,
+      "damaged, cracks stains or peeling": 0.01110247615724802
+    }
+  },
+  "20250927_111536.jpg": {
+    "component": "electrical fitting",
+    "component_confidence": 0.6292513012886047,
+    "condition": "damaged or missing fitting",
+    "condition_confidence": 0.5282208919525146,
+    "component_scores": {
+      "door": 0.01628550887107849,
+      "floor": 0.009200497530400753,
+      "wall": 0.025002295151352882,
+      "window": 0.0010236462112516165,
+      "ceiling": 0.012460933066904545,
+      "electrical fitting": 0.6292513012886047,
+      "light fixture": 0.07444670796394348,
+      "fixture": 0.13513226807117462,
+      "plumbing fitting": 0.03310920298099518,
+      "sanitary ware": 0.00509672099724412,
+      "shower enclosure": 0.03089374117553234,
+      "cabinetry": 0.02721417136490345,
+      "railing": 0.0008830106817185879
+    },
+    "condition_scores": {
+      "new or like-new fitting": 0.16574892401695251,
+      "good condition fitting": 0.16225837171077728,
+      "worn or aged fitting": 0.14377187192440033,
+      "damaged or missing fitting": 0.5282208919525146
+    }
+  },
+  "20250927_111256.jpg": {
+    "component": "floor",
+    "component_confidence": 0.7815926671028137,
+    "condition": "new flooring",
+    "condition_confidence": 0.5797183513641357,
+    "component_scores": {
+      "door": 0.0012348758755251765,
+      "floor": 0.7815926671028137,
+      "wall": 0.00023099702957551926,
+      "window": 0.0001213226278196089,
+      "ceiling": 0.000490909384097904,
+      "electrical fitting": 0.0017723329365253448,
+      "light fixture": 0.0002653698029462248,
+      "fixture": 0.002052662894129753,
+      "plumbing fitting": 0.007131856866180897,
+      "sanitary ware": 0.0016452133422717452,
+      "shower enclosure": 0.0013038337929174304,
+      "cabinetry": 0.2019554078578949,
+      "railing": 0.0002025491849053651
+    },
+    "condition_scores": {
+      "new flooring": 0.5797183513641357,
+      "good condition with minor wear": 0.15413835644721985,
+      "worn or scratched flooring": 0.11763930320739746,
+      "damaged flooring, chips stains or cracks": 0.14850394427776337
+    }
+  },
+  "20250927_111630.jpg": {
+    "component": "ceiling",
+    "component_confidence": 0.3089943826198578,
+    "condition": "worn or discoloured",
+    "condition_confidence": 0.5536277294158936,
+    "component_scores": {
+      "door": 0.00048456143122166395,
+      "floor": 0.00030696261092089117,
+      "wall": 0.0005400427617132664,
+      "window": 0.0009771956829354167,
+      "ceiling": 0.3089943826198578,
+      "electrical fitting": 0.13516072928905487,
+      "light fixture": 0.20615093410015106,
+      "fixture": 0.24269074201583862,
+      "plumbing fitting": 0.07380165159702301,
+      "sanitary ware": 0.0008787420229054987,
+      "shower enclosure": 0.024576690047979355,
+      "cabinetry": 0.0054056341759860516,
+      "railing": 3.180030398652889e-05
+    },
+    "condition_scores": {
+      "freshly painted, like-new condition": 0.19220314919948578,
+      "good condition": 0.23244522511959076,
+      "worn or discoloured": 0.5536277294158936,
+      "damaged, cracks stains or peeling": 0.021723909303545952
+    }
+  },
+  "20250927_111645.jpg": {
+    "component": "ceiling",
+    "component_confidence": 0.8959356546401978,
+    "condition": "worn or discoloured",
+    "condition_confidence": 0.6174421906471252,
+    "component_scores": {
+      "door": 0.00255846930667758,
+      "floor": 0.0005845209816470742,
+      "wall": 0.0059601012617349625,
+      "window": 0.004075567703694105,
+      "ceiling": 0.8959356546401978,
+      "electrical fitting": 0.016902105882763863,
+      "light fixture": 0.02727813459932804,
+      "fixture": 0.02373647876083851,
+      "plumbing fitting": 0.011241398751735687,
+      "sanitary ware": 0.00022565227118320763,
+      "shower enclosure": 0.002527133794501424,
+      "cabinetry": 0.0074777668341994286,
+      "railing": 0.0014970144256949425
+    },
+    "condition_scores": {
+      "freshly painted, like-new condition": 0.21561118960380554,
+      "good condition": 0.10329718887805939,
+      "worn or discoloured": 0.6174421906471252,
+      "damaged, cracks stains or peeling": 0.06364937871694565
+    }
+  },
+  "20250927_111427.jpg": {
+    "component": "electrical fitting",
+    "component_confidence": 0.8496654033660889,
+    "condition": "damaged or missing fitting",
+    "condition_confidence": 0.35494711995124817,
+    "component_scores": {
+      "door": 0.0004348434158600867,
+      "floor": 0.0006049213698133826,
+      "wall": 0.004359597805887461,
+      "window": 5.6888449762482196e-05,
+      "ceiling": 0.0008243178599514067,
+      "electrical fitting": 0.8496654033660889,
+      "light fixture": 0.01176366489380598,
+      "fixture": 0.02290753833949566,
+      "plumbing fitting": 0.1029837504029274,
+      "sanitary ware": 0.0007461935747414827,
+      "shower enclosure": 0.005408424884080887,
+      "cabinetry": 0.0001649359182920307,
+      "railing": 7.956088666105643e-05
+    },
+    "condition_scores": {
+      "new or like-new fitting": 0.2166001945734024,
+      "good condition fitting": 0.3122745454311371,
+      "worn or aged fitting": 0.11617813259363174,
+      "damaged or missing fitting": 0.35494711995124817
+    }
+  },
+  "20250927_111540.jpg": {
+    "component": "electrical fitting",
+    "component_confidence": 0.5047962069511414,
+    "condition": "good condition fitting",
+    "condition_confidence": 0.5082901120185852,
+    "component_scores": {
+      "door": 0.0005709159886464477,
+      "floor": 0.00018027758051175624,
+      "wall": 0.0005766274989582598,
+      "window": 7.548517169198021e-05,
+      "ceiling": 0.0005578013951890171,
+      "electrical fitting": 0.5047962069511414,
+      "light fixture": 0.03338833898305893,
+      "fixture": 0.16305489838123322,
+      "plumbing fitting": 0.052030954509973526,
+      "sanitary ware": 0.029003366827964783,
+      "shower enclosure": 0.04646851867437363,
+      "cabinetry": 0.16898463666439056,
+      "railing": 0.0003119614557363093
+    },
+    "condition_scores": {
+      "new or like-new fitting": 0.3028419613838196,
+      "good condition fitting": 0.5082901120185852,
+      "worn or aged fitting": 0.0717836543917656,
+      "damaged or missing fitting": 0.11708424240350723
+    }
+  },
+  "20250927_111659.jpg": {
+    "component": "ceiling",
+    "component_confidence": 0.3734362721443176,
+    "condition": "worn or discoloured",
+    "condition_confidence": 0.43451398611068726,
+    "component_scores": {
+      "door": 0.0008625232148915529,
+      "floor": 0.0010812440887093544,
+      "wall": 0.0018600764451548457,
+      "window": 0.001331338775344193,
+      "ceiling": 0.3734362721443176,
+      "electrical fitting": 0.0811903178691864,
+      "light fixture": 0.19358325004577637,
+      "fixture": 0.30005186796188354,
+      "plumbing fitting": 0.03379800170660019,
+      "sanitary ware": 0.0002497982932254672,
+      "shower enclosure": 0.010276810266077518,
+      "cabinetry": 0.0020266021601855755,
+      "railing": 0.0002517747925594449
+    },
+    "condition_scores": {
+      "freshly painted, like-new condition": 0.1187487319111824,
+      "good condition": 0.4274642765522003,
+      "worn or discoloured": 0.43451398611068726,
+      "damaged, cracks stains or peeling": 0.019273048266768456
+    }
+  },
+  "20250927_111621.jpg": {
+    "component": "fixture",
+    "component_confidence": 0.34358924627304077,
+    "condition": "new or like-new condition",
+    "condition_confidence": 0.656596302986145,
+    "component_scores": {
+      "door": 0.007641019765287638,
+      "floor": 0.000253222300671041,
+      "wall": 0.0032601028215140104,
+      "window": 0.02555139735341072,
+      "ceiling": 0.01605171710252762,
+      "electrical fitting": 0.19883525371551514,
+      "light fixture": 0.27782386541366577,
+      "fixture": 0.34358924627304077,
+      "plumbing fitting": 0.011270166374742985,
+      "sanitary ware": 0.007077229209244251,
+      "shower enclosure": 0.107143335044384,
+      "cabinetry": 0.0012386871967464685,
+      "railing": 0.0002646811481099576
+    },
+    "condition_scores": {
+      "new or like-new condition": 0.656596302986145,
+      "good condition": 0.25883719325065613,
+      "worn condition": 0.06486444920301437,
+      "damaged condition": 0.019701993092894554
+    }
+  },
+  "20250927_111258.jpg": {
+    "component": "floor",
+    "component_confidence": 0.9396278262138367,
+    "condition": "new flooring",
+    "condition_confidence": 0.6154016256332397,
+    "component_scores": {
+      "door": 0.0005597200943157077,
+      "floor": 0.9396278262138367,
+      "wall": 0.0004136598145123571,
+      "window": 0.0001049070488079451,
+      "ceiling": 0.0006681261584162712,
+      "electrical fitting": 0.0023848877754062414,
+      "light fixture": 0.000582446635235101,
+      "fixture": 0.009025778621435165,
+      "plumbing fitting": 0.0028604683466255665,
+      "sanitary ware": 0.00202959100715816,
+      "shower enclosure": 0.000905425869859755,
+      "cabinetry": 0.0408167727291584,
+      "railing": 2.0552373825921677e-05
+    },
+    "condition_scores": {
+      "new flooring": 0.6154016256332397,
+      "good condition with minor wear": 0.28217950463294983,
+      "worn or scratched flooring": 0.039850860834121704,
+      "damaged flooring, chips stains or cracks": 0.06256793439388275
+    }
+  },
+  "20250927_111416.jpg": {
+    "component": "window",
+    "component_confidence": 0.723763108253479,
+    "condition": "good condition with minor wear",
+    "condition_confidence": 0.40017959475517273,
+    "component_scores": {
+      "door": 0.14073190093040466,
+      "floor": 0.0001721543085295707,
+      "wall": 0.019011367112398148,
+      "window": 0.723763108253479,
+      "ceiling": 8.501346019329503e-05,
+      "electrical fitting": 0.0012876689434051514,
+      "light fixture": 0.0006786482990719378,
+      "fixture": 0.0023684983607381582,
+      "plumbing fitting": 0.00044539960799738765,
+      "sanitary ware": 9.755806240718812e-05,
+      "shower enclosure": 0.0016667996533215046,
+      "cabinetry": 6.088886584620923e-05,
+      "railing": 0.10963096469640732
+    },
+    "condition_scores": {
+      "new or like-new frame and glass": 0.2316344529390335,
+      "good condition with minor wear": 0.40017959475517273,
+      "worn frame or scratched glass": 0.2591472864151001,
+      "damaged frame or glass, cracks rust or broken seals": 0.10903865098953247
+    }
+  },
+  "20250927_111451.jpg": {
+    "component": "shower enclosure",
+    "component_confidence": 0.4702661633491516,
+    "condition": "good condition with minor wear",
+    "condition_confidence": 0.43671196699142456,
+    "component_scores": {
+      "door": 0.02672002464532852,
+      "floor": 0.003667256096377969,
+      "wall": 0.008688979782164097,
+      "window": 0.016591820865869522,
+      "ceiling": 0.0367707759141922,
+      "electrical fitting": 0.1036023199558258,
+      "light fixture": 0.024110864847898483,
+      "fixture": 0.03442934900522232,
+      "plumbing fitting": 0.09985100477933884,
+      "sanitary ware": 0.018473083153367043,
+      "shower enclosure": 0.4702661633491516,
+      "cabinetry": 0.1546516865491867,
+      "railing": 0.0021765974815934896
+    },
+    "condition_scores": {
+      "new or like-new condition": 0.3514437675476074,
+      "good condition with minor wear": 0.43671196699142456,
+      "worn condition, marks or stiff runners": 0.1356249898672104,
+      "damaged condition, cracked glass or broken frame": 0.07621932029724121
+    }
+  },
+  "20250927_111353.jpg": {
+    "component": "electrical fitting",
+    "component_confidence": 0.2059241384267807,
+    "condition": "new or like-new fitting",
+    "condition_confidence": 0.4514317512512207,
+    "component_scores": {
+      "door": 0.002362668514251709,
+      "floor": 0.00014075927902013063,
+      "wall": 0.00727873807772994,
+      "window": 0.05758650600910187,
+      "ceiling": 0.09183187037706375,
+      "electrical fitting": 0.2059241384267807,
+      "light fixture": 0.1995774656534195,
+      "fixture": 0.17643482983112335,
+      "plumbing fitting": 0.15108637511730194,
+      "sanitary ware": 0.0008929632604122162,
+      "shower enclosure": 0.030061140656471252,
+      "cabinetry": 0.0034309544134885073,
+      "railing": 0.07339160889387131
+    },
+    "condition_scores": {
+      "new or like-new fitting": 0.4514317512512207,
+      "good condition fitting": 0.28374460339546204,
+      "worn or aged fitting": 0.08912154287099838,
+      "damaged or missing fitting": 0.17570215463638306
+    }
+  },
+  "20250927_111410.jpg": {
+    "component": "window",
+    "component_confidence": 0.7904440760612488,
+    "condition": "worn frame or scratched glass",
+    "condition_confidence": 0.6284630298614502,
+    "component_scores": {
+      "door": 0.05132147669792175,
+      "floor": 0.028566718101501465,
+      "wall": 0.013610019348561764,
+      "window": 0.7904440760612488,
+      "ceiling": 0.0005106257740408182,
+      "electrical fitting": 0.0023878072388470173,
+      "light fixture": 0.0036672959104180336,
+      "fixture": 0.013738051988184452,
+      "plumbing fitting": 0.012752210721373558,
+      "sanitary ware": 0.003374143736436963,
+      "shower enclosure": 0.02273518219590187,
+      "cabinetry": 0.0009332239278592169,
+      "railing": 0.05595919117331505
+    },
+    "condition_scores": {
+      "new or like-new frame and glass": 0.07976595312356949,
+      "good condition with minor wear": 0.22612139582633972,
+      "worn frame or scratched glass": 0.6284630298614502,
+      "damaged frame or glass, cracks rust or broken seals": 0.0656496211886406
+    }
+  },
+  "20250927_111422.jpg": {
+    "component": "cabinetry",
+    "component_confidence": 0.7051029205322266,
+    "condition": "new or like-new condition",
+    "condition_confidence": 0.35756993293762207,
+    "component_scores": {
+      "door": 0.018235214054584503,
+      "floor": 0.0338393859565258,
+      "wall": 0.10418394953012466,
+      "window": 0.014188764616847038,
+      "ceiling": 0.004437974188476801,
+      "electrical fitting": 0.05632944777607918,
+      "light fixture": 0.004603457637131214,
+      "fixture": 0.01856899820268154,
+      "plumbing fitting": 0.022605612874031067,
+      "sanitary ware": 0.0010119073558598757,
+      "shower enclosure": 0.016017859801650047,
+      "cabinetry": 0.7051029205322266,
+      "railing": 0.0008745259256102145
+    },
+    "condition_scores": {
+      "new or like-new condition": 0.35756993293762207,
+      "good condition with minor wear": 0.2597714960575104,
+      "worn condition, misaligned doors or worn surfaces": 0.32576680183410645,
+      "damaged condition, broken doors, drawers or countertop": 0.056891754269599915
+    }
+  },
+  "20250927_111611.jpg": {
+    "component": "shower enclosure",
+    "component_confidence": 0.6157513856887817,
+    "condition": "good condition with minor wear",
+    "condition_confidence": 0.48229992389678955,
+    "component_scores": {
+      "door": 0.023855607956647873,
+      "floor": 0.00031587123521603644,
+      "wall": 0.000623680476564914,
+      "window": 0.000543475616723299,
+      "ceiling": 0.00014706084039062262,
+      "electrical fitting": 0.03314898908138275,
+      "light fixture": 0.001154814031906426,
+      "fixture": 0.004567047115415335,
+      "plumbing fitting": 0.024172838777303696,
+      "sanitary ware": 0.004910710267722607,
+      "shower enclosure": 0.6157513856887817,
+      "cabinetry": 0.2906712591648102,
+      "railing": 0.00013731102808378637
+    },
+    "condition_scores": {
+      "new or like-new condition": 0.3984892964363098,
+      "good condition with minor wear": 0.48229992389678955,
+      "worn condition, marks or stiff runners": 0.08702690154314041,
+      "damaged condition, cracked glass or broken frame": 0.03218383342027664
+    }
+  },
+  "20250927_111056.jpg": {
+    "component": "cabinetry",
+    "component_confidence": 0.5563550591468811,
+    "condition": "worn condition, misaligned doors or worn surfaces",
+    "condition_confidence": 0.7003888487815857,
+    "component_scores": {
+      "door": 0.08134986460208893,
+      "floor": 0.008903314359486103,
+      "wall": 0.005016034934669733,
+      "window": 0.09667779505252838,
+      "ceiling": 0.025981495156884193,
+      "electrical fitting": 0.009967018850147724,
+      "light fixture": 0.008407987654209137,
+      "fixture": 0.04347001016139984,
+      "plumbing fitting": 0.0036749925930052996,
+      "sanitary ware": 0.010253126733005047,
+      "shower enclosure": 0.11331726610660553,
+      "cabinetry": 0.5563550591468811,
+      "railing": 0.03662601858377457
+    },
+    "condition_scores": {
+      "new or like-new condition": 0.023738065734505653,
+      "good condition with minor wear": 0.2216053158044815,
+      "worn condition, misaligned doors or worn surfaces": 0.7003888487815857,
+      "damaged condition, broken doors, drawers or countertop": 0.05426768213510513
+    }
+  },
+  "20250927_111413.jpg": {
+    "component": "window",
+    "component_confidence": 0.9415963292121887,
+    "condition": "good condition with minor wear",
+    "condition_confidence": 0.8354817628860474,
+    "component_scores": {
+      "door": 0.02081817202270031,
+      "floor": 0.00039929451304487884,
+      "wall": 0.0010038684122264385,
+      "window": 0.9415963292121887,
+      "ceiling": 0.0003165996167808771,
+      "electrical fitting": 0.00035432324511930346,
+      "light fixture": 0.0011692862026393414,
+      "fixture": 0.00765869440510869,
+      "plumbing fitting": 0.000420960335759446,
+      "sanitary ware": 0.00025346645270474255,
+      "shower enclosure": 0.009145021438598633,
+      "cabinetry": 0.0002800816437229514,
+      "railing": 0.016583960503339767
+    },
+    "condition_scores": {
+      "new or like-new frame and glass": 0.0904044657945633,
+      "good condition with minor wear": 0.8354817628860474,
+      "worn frame or scratched glass": 0.055505264550447464,
+      "damaged frame or glass, cracks rust or broken seals": 0.018608467653393745
+    }
+  },
+  "20250927_111640.jpg": {
+    "component": "ceiling",
+    "component_confidence": 0.8232038021087646,
+    "condition": "worn or discoloured",
+    "condition_confidence": 0.6448383331298828,
+    "component_scores": {
+      "door": 0.0021639326587319374,
+      "floor": 0.0007047001854516566,
+      "wall": 0.016601204872131348,
+      "window": 0.03188518434762955,
+      "ceiling": 0.8232038021087646,
+      "electrical fitting": 0.024203035980463028,
+      "light fixture": 0.026372605934739113,
+      "fixture": 0.027282414957880974,
+      "plumbing fitting": 0.01377180963754654,
+      "sanitary ware": 8.360986248590052e-05,
+      "shower enclosure": 0.0024296496994793415,
+      "cabinetry": 0.026899119839072227,
+      "railing": 0.004398974124342203
+    },
+    "condition_scores": {
+      "freshly painted, like-new condition": 0.07804550230503082,
+      "good condition": 0.178049236536026,
+      "worn or discoloured": 0.6448383331298828,
+      "damaged, cracks stains or peeling": 0.09906700253486633
+    }
+  },
+  "20250927_111314.jpg": {
+    "component": "floor",
+    "component_confidence": 0.949821412563324,
+    "condition": "good condition with minor wear",
+    "condition_confidence": 0.3895595967769623,
+    "component_scores": {
+      "door": 0.008619970642030239,
+      "floor": 0.949821412563324,
+      "wall": 0.007727480959147215,
+      "window": 0.0007971983286552131,
+      "ceiling": 0.003426871495321393,
+      "electrical fitting": 0.002275485545396805,
+      "light fixture": 0.0004674872325267643,
+      "fixture": 0.007480323314666748,
+      "plumbing fitting": 0.006558089982718229,
+      "sanitary ware": 0.0007430974510498345,
+      "shower enclosure": 0.0015998564194887877,
+      "cabinetry": 0.009206203743815422,
+      "railing": 0.001276446389965713
+    },
+    "condition_scores": {
+      "new flooring": 0.2841784656047821,
+      "good condition with minor wear": 0.3895595967769623,
+      "worn or scratched flooring": 0.13955023884773254,
+      "damaged flooring, chips stains or cracks": 0.18671178817749023
+    }
+  },
+  "20250927_111625.jpg": {
+    "component": "ceiling",
+    "component_confidence": 0.7239202857017517,
+    "condition": "worn or discoloured",
+    "condition_confidence": 0.716479480266571,
+    "component_scores": {
+      "door": 0.0034253764897584915,
+      "floor": 0.0011426424607634544,
+      "wall": 0.002953597344458103,
+      "window": 0.0018803949933499098,
+      "ceiling": 0.7239202857017517,
+      "electrical fitting": 0.03706381469964981,
+      "light fixture": 0.06145996227860451,
+      "fixture": 0.03142062947154045,
+      "plumbing fitting": 0.07574210315942764,
+      "sanitary ware": 0.0014483500272035599,
+      "shower enclosure": 0.020316848531365395,
+      "cabinetry": 0.03658619895577431,
+      "railing": 0.0026397965848445892
+    },
+    "condition_scores": {
+      "freshly painted, like-new condition": 0.13520510494709015,
+      "good condition": 0.08714491873979568,
+      "worn or discoloured": 0.716479480266571,
+      "damaged, cracks stains or peeling": 0.06117043271660805
+    }
+  },
+  "20250927_111046.jpg": {
+    "component": "door",
+    "component_confidence": 0.2558963894844055,
+    "condition": "good condition with minor wear",
+    "condition_confidence": 0.5463690757751465,
+    "component_scores": {
+      "door": 0.2558963894844055,
+      "floor": 0.03227381035685539,
+      "wall": 0.01213818695396185,
+      "window": 0.09933602809906006,
+      "ceiling": 0.07786154747009277,
+      "electrical fitting": 0.024043722078204155,
+      "light fixture": 0.025015154853463173,
+      "fixture": 0.1269858479499817,
+      "plumbing fitting": 0.027013806626200676,
+      "sanitary ware": 0.013565970584750175,
+      "shower enclosure": 0.07406284660100937,
+      "cabinetry": 0.2234664261341095,
+      "railing": 0.008340267464518547
+    },
+    "condition_scores": {
+      "new or like-new condition": 0.27395039796829224,
+      "good condition with minor wear": 0.5463690757751465,
+      "worn condition, visible marks or scuffs": 0.08702004700899124,
+      "damaged condition, holes cracks or broken hardware": 0.09266044944524765
+    }
+  },
+  "20250927_111436.jpg": {
+    "component": "electrical fitting",
+    "component_confidence": 0.576111376285553,
+    "condition": "damaged or missing fitting",
+    "condition_confidence": 0.4014107584953308,
+    "component_scores": {
+      "door": 0.0014315306907519698,
+      "floor": 0.009752201847732067,
+      "wall": 0.00838696863502264,
+      "window": 0.0003215013712178916,
+      "ceiling": 0.08923953771591187,
+      "electrical fitting": 0.576111376285553,
+      "light fixture": 0.09082396328449249,
+      "fixture": 0.08643817901611328,
+      "plumbing fitting": 0.11627978831529617,
+      "sanitary ware": 0.0010138206416741014,
+      "shower enclosure": 0.019799061119556427,
+      "cabinetry": 0.0003133292484562844,
+      "railing": 8.876813808456063e-05
+    },
+    "condition_scores": {
+      "new or like-new fitting": 0.20331335067749023,
+      "good condition fitting": 0.26859793066978455,
+      "worn or aged fitting": 0.12667791545391083,
+      "damaged or missing fitting": 0.4014107584953308
+    }
+  },
+  "20250927_111259.jpg": {
+    "component": "floor",
+    "component_confidence": 0.9706627130508423,
+    "condition": "new flooring",
+    "condition_confidence": 0.6374284625053406,
+    "component_scores": {
+      "door": 0.0037254057824611664,
+      "floor": 0.9706627130508423,
+      "wall": 0.0006728192674927413,
+      "window": 0.0001953699393197894,
+      "ceiling": 0.0006819809786975384,
+      "electrical fitting": 0.0006721637328155339,
+      "light fixture": 0.0002233868872281164,
+      "fixture": 0.0030596868600696325,
+      "plumbing fitting": 0.001279700081795454,
+      "sanitary ware": 0.0002991112123709172,
+      "shower enclosure": 0.0008146705222316086,
+      "cabinetry": 0.01769235171377659,
+      "railing": 2.0595571186277084e-05
+    },
+    "condition_scores": {
+      "new flooring": 0.6374284625053406,
+      "good condition with minor wear": 0.2670111656188965,
+      "worn or scratched flooring": 0.03270414471626282,
+      "damaged flooring, chips stains or cracks": 0.0628562793135643
+    }
+  },
+  "20250927_111552.jpg": {
+    "component": "electrical fitting",
+    "component_confidence": 0.5776247978210449,
+    "condition": "new or like-new fitting",
+    "condition_confidence": 0.2999511957168579,
+    "component_scores": {
+      "door": 0.0038371356204152107,
+      "floor": 0.00020320255134720355,
+      "wall": 0.0007193679339252412,
+      "window": 0.00018903639283962548,
+      "ceiling": 0.0016330222133547068,
+      "electrical fitting": 0.5776247978210449,
+      "light fixture": 0.09793728590011597,
+      "fixture": 0.1828603595495224,
+      "plumbing fitting": 0.09092041105031967,
+      "sanitary ware": 0.017234742641448975,
+      "shower enclosure": 0.01034555584192276,
+      "cabinetry": 0.015603085048496723,
+      "railing": 0.0008920106338337064
+    },
+    "condition_scores": {
+      "new or like-new fitting": 0.2999511957168579,
+      "good condition fitting": 0.21259504556655884,
+      "worn or aged fitting": 0.24294495582580566,
+      "damaged or missing fitting": 0.2445087879896164
+    }
+  },
+  "20250927_111654.jpg": {
+    "component": "ceiling",
+    "component_confidence": 0.4461783468723297,
+    "condition": "worn or discoloured",
+    "condition_confidence": 0.49956682324409485,
+    "component_scores": {
+      "door": 0.0010981775121763349,
+      "floor": 0.0001910356804728508,
+      "wall": 0.006338383071124554,
+      "window": 0.010997753590345383,
+      "ceiling": 0.4461783468723297,
+      "electrical fitting": 0.022779379040002823,
+      "light fixture": 0.2968364357948303,
+      "fixture": 0.16422909498214722,
+      "plumbing fitting": 0.010265512391924858,
+      "sanitary ware": 0.002157830400392413,
+      "shower enclosure": 0.018782535567879677,
+      "cabinetry": 0.016959870234131813,
+      "railing": 0.0031856501009315252
+    },
+    "condition_scores": {
+      "freshly painted, like-new condition": 0.2638041079044342,
+      "good condition": 0.14053969085216522,
+      "worn or discoloured": 0.49956682324409485,
+      "damaged, cracks stains or peeling": 0.09608940780162811
+    }
+  },
+  "20250927_111305.jpg": {
+    "component": "floor",
+    "component_confidence": 0.9885212182998657,
+    "condition": "damaged flooring, chips stains or cracks",
+    "condition_confidence": 0.5357329249382019,
+    "component_scores": {
+      "door": 0.0005890181055292487,
+      "floor": 0.9885212182998657,
+      "wall": 0.00036640831967815757,
+      "window": 0.0001964199764188379,
+      "ceiling": 0.0024111561942845583,
+      "electrical fitting": 0.0005026591825298965,
+      "light fixture": 0.00020293466513976455,
+      "fixture": 0.0030980000738054514,
+      "plumbing fitting": 0.00022320942662190646,
+      "sanitary ware": 4.849704782827757e-05,
+      "shower enclosure": 2.6925263227894902e-05,
+      "cabinetry": 0.003745871828868985,
+      "railing": 6.755196955054998e-05
+    },
+    "condition_scores": {
+      "new flooring": 0.10453425347805023,
+      "good condition with minor wear": 0.2640562355518341,
+      "worn or scratched flooring": 0.09567660093307495,
+      "damaged flooring, chips stains or cracks": 0.5357329249382019
+    }
+  },
+  "20250927_111627.jpg": {
+    "component": "ceiling",
+    "component_confidence": 0.753568172454834,
+    "condition": "worn or discoloured",
+    "condition_confidence": 0.49654996395111084,
+    "component_scores": {
+      "door": 0.002745655830949545,
+      "floor": 0.0008489728788845241,
+      "wall": 0.004913283511996269,
+      "window": 0.034822944551706314,
+      "ceiling": 0.753568172454834,
+      "electrical fitting": 0.021658586338162422,
+      "light fixture": 0.11141365766525269,
+      "fixture": 0.05094267800450325,
+      "plumbing fitting": 0.010058853775262833,
+      "sanitary ware": 0.00014987747999839485,
+      "shower enclosure": 0.0017706537619233131,
+      "cabinetry": 0.004877615254372358,
+      "railing": 0.002229049801826477
+    },
+    "condition_scores": {
+      "freshly painted, like-new condition": 0.2981231212615967,
+      "good condition": 0.10047736763954163,
+      "worn or discoloured": 0.49654996395111084,
+      "damaged, cracks stains or peeling": 0.1048494428396225
+    }
+  },
+  "20250927_111050.jpg": {
+    "component": "floor",
+    "component_confidence": 0.2557373344898224,
+    "condition": "good condition with minor wear",
+    "condition_confidence": 0.6867324113845825,
+    "component_scores": {
+      "door": 0.0986444354057312,
+      "floor": 0.2557373344898224,
+      "wall": 0.009714135900139809,
+      "window": 0.005034381523728371,
+      "ceiling": 0.027463875710964203,
+      "electrical fitting": 0.026266062632203102,
+      "light fixture": 0.009185430593788624,
+      "fixture": 0.044071778655052185,
+      "plumbing fitting": 0.20500843226909637,
+      "sanitary ware": 0.05251471698284149,
+      "shower enclosure": 0.018379807472229004,
+      "cabinetry": 0.20620647072792053,
+      "railing": 0.04177314415574074
+    },
+    "condition_scores": {
+      "new flooring": 0.046853747218847275,
+      "good condition with minor wear": 0.6867324113845825,
+      "worn or scratched flooring": 0.15194867551326752,
+      "damaged flooring, chips stains or cracks": 0.11446522921323776
+    }
+  },
+  "20250927_111517.jpg": {
+    "component": "cabinetry",
+    "component_confidence": 0.6237567663192749,
+    "condition": "worn condition, misaligned doors or worn surfaces",
+    "condition_confidence": 0.577812135219574,
+    "component_scores": {
+      "door": 0.04743659868836403,
+      "floor": 0.11040347069501877,
+      "wall": 0.0011366530088707805,
+      "window": 0.0005203262553550303,
+      "ceiling": 0.000477834400953725,
+      "electrical fitting": 0.01773756742477417,
+      "light fixture": 0.0010898339096456766,
+      "fixture": 0.003048910293728113,
+      "plumbing fitting": 0.11802774667739868,
+      "sanitary ware": 0.013830244541168213,
+      "shower enclosure": 0.0621110200881958,
+      "cabinetry": 0.6237567663192749,
+      "railing": 0.0004230544436722994
+    },
+    "condition_scores": {
+      "new or like-new condition": 0.05960308015346527,
+      "good condition with minor wear": 0.18185724318027496,
+      "worn condition, misaligned doors or worn surfaces": 0.577812135219574,
+      "damaged condition, broken doors, drawers or countertop": 0.1807275414466858
+    }
+  },
+  "20250927_111333.jpg": {
+    "component": "floor",
+    "component_confidence": 0.9628292918205261,
+    "condition": "new flooring",
+    "condition_confidence": 0.4999951124191284,
+    "component_scores": {
+      "door": 0.00038387280073948205,
+      "floor": 0.9628292918205261,
+      "wall": 0.0004559759108815342,
+      "window": 0.00014556836686097085,
+      "ceiling": 0.0008780905627645552,
+      "electrical fitting": 0.000687844876665622,
+      "light fixture": 0.0004278369597159326,
+      "fixture": 0.007796567399054766,
+      "plumbing fitting": 0.000600137747824192,
+      "sanitary ware": 0.0010441294871270657,
+      "shower enclosure": 0.0009713219478726387,
+      "cabinetry": 0.02376740612089634,
+      "railing": 1.1917659321625251e-05
+    },
+    "condition_scores": {
+      "new flooring": 0.4999951124191284,
+      "good condition with minor wear": 0.3782477378845215,
+      "worn or scratched flooring": 0.04666976258158684,
+      "damaged flooring, chips stains or cracks": 0.07508746534585953
+    }
+  },
+  "20250927_111053.jpg": {
+    "component": "door",
+    "component_confidence": 0.7211418151855469,
+    "condition": "good condition with minor wear",
+    "condition_confidence": 0.5426790714263916,
+    "component_scores": {
+      "door": 0.7211418151855469,
+      "floor": 0.0002513333165552467,
+      "wall": 0.0005849931039847434,
+      "window": 0.006680223159492016,
+      "ceiling": 0.0007299252320080996,
+      "electrical fitting": 0.06921181827783585,
+      "light fixture": 0.004008162301033735,
+      "fixture": 0.06393067538738251,
+      "plumbing fitting": 0.05962393060326576,
+      "sanitary ware": 0.0017746533267199993,
+      "shower enclosure": 0.008941786363720894,
+      "cabinetry": 0.04805890470743179,
+      "railing": 0.01506178267300129
+    },
+    "condition_scores": {
+      "new or like-new condition": 0.10344713926315308,
+      "good condition with minor wear": 0.5426790714263916,
+      "worn condition, visible marks or scuffs": 0.13333414494991302,
+      "damaged condition, holes cracks or broken hardware": 0.22053973376750946
+    }
+  },
+  "20250927_111524.jpg": {
+    "component": "shower enclosure",
+    "component_confidence": 0.41779664158821106,
+    "condition": "new or like-new condition",
+    "condition_confidence": 0.5808570384979248,
+    "component_scores": {
+      "door": 0.005872159264981747,
+      "floor": 0.0005666175857186317,
+      "wall": 0.0003175019519403577,
+      "window": 0.0007617129012942314,
+      "ceiling": 5.378424975788221e-05,
+      "electrical fitting": 0.040557604283094406,
+      "light fixture": 0.0005913496133871377,
+      "fixture": 0.004730379208922386,
+      "plumbing fitting": 0.032299526035785675,
+      "sanitary ware": 0.2024819254875183,
+      "shower enclosure": 0.41779664158821106,
+      "cabinetry": 0.29393982887268066,
+      "railing": 3.0925839382689446e-05
+    },
+    "condition_scores": {
+      "new or like-new condition": 0.5808570384979248,
+      "good condition with minor wear": 0.36403921246528625,
+      "worn condition, marks or stiff runners": 0.026123452931642532,
+      "damaged condition, cracked glass or broken frame": 0.028980296105146408
+    }
+  },
+  "20250927_111319.jpg": {
+    "component": "floor",
+    "component_confidence": 0.8626243472099304,
+    "condition": "damaged flooring, chips stains or cracks",
+    "condition_confidence": 0.304766982793808,
+    "component_scores": {
+      "door": 0.0030454755760729313,
+      "floor": 0.8626243472099304,
+      "wall": 0.006540438160300255,
+      "window": 0.000926683540455997,
+      "ceiling": 0.00832674466073513,
+      "electrical fitting": 0.008233236148953438,
+      "light fixture": 0.0012234182795509696,
+      "fixture": 0.005088677629828453,
+      "plumbing fitting": 0.03879779949784279,
+      "sanitary ware": 0.002811194397509098,
+      "shower enclosure": 0.011908825486898422,
+      "cabinetry": 0.05007418617606163,
+      "railing": 0.0003989137476310134
+    },
+    "condition_scores": {
+      "new flooring": 0.28814828395843506,
+      "good condition with minor wear": 0.24609987437725067,
+      "worn or scratched flooring": 0.16098488867282867,
+      "damaged flooring, chips stains or cracks": 0.304766982793808
+    }
+  },
+  "20250927_111054.jpg": {
+    "component": "cabinetry",
+    "component_confidence": 0.4491921663284302,
+    "condition": "worn condition, misaligned doors or worn surfaces",
+    "condition_confidence": 0.8268120288848877,
+    "component_scores": {
+      "door": 0.05677289515733719,
+      "floor": 0.0060777259059250355,
+      "wall": 0.0034583567176014185,
+      "window": 0.021733231842517853,
+      "ceiling": 0.2842979431152344,
+      "electrical fitting": 0.012308482080698013,
+      "light fixture": 0.013620322570204735,
+      "fixture": 0.07191743701696396,
+      "plumbing fitting": 0.024993956089019775,
+      "sanitary ware": 0.0035926117561757565,
+      "shower enclosure": 0.029335707426071167,
+      "cabinetry": 0.4491921663284302,
+      "railing": 0.02269916422665119
+    },
+    "condition_scores": {
+      "new or like-new condition": 0.00865557324141264,
+      "good condition with minor wear": 0.07912759482860565,
+      "worn condition, misaligned doors or worn surfaces": 0.8268120288848877,
+      "damaged condition, broken doors, drawers or countertop": 0.0854048877954483
+    }
+  },
+  "20250927_111448.jpg": {
+    "component": "cabinetry",
+    "component_confidence": 0.2197847068309784,
+    "condition": "worn condition, misaligned doors or worn surfaces",
+    "condition_confidence": 0.6445726752281189,
+    "component_scores": {
+      "door": 0.02360401302576065,
+      "floor": 0.00028888677479699254,
+      "wall": 0.001188648515380919,
+      "window": 0.015175444073975086,
+      "ceiling": 0.19025135040283203,
+      "electrical fitting": 0.1147865429520607,
+      "light fixture": 0.16710487008094788,
+      "fixture": 0.05030161514878273,
+      "plumbing fitting": 0.07146288454532623,
+      "sanitary ware": 0.005174453370273113,
+      "shower enclosure": 0.14031465351581573,
+      "cabinetry": 0.2197847068309784,
+      "railing": 0.0005619663279503584
+    },
+    "condition_scores": {
+      "new or like-new condition": 0.09735749661922455,
+      "good condition with minor wear": 0.13703525066375732,
+      "worn condition, misaligned doors or worn surfaces": 0.6445726752281189,
+      "damaged condition, broken doors, drawers or countertop": 0.12103448808193207
+    }
+  },
+  "20250927_111547.jpg": {
+    "component": "electrical fitting",
+    "component_confidence": 0.7370481491088867,
+    "condition": "new or like-new fitting",
+    "condition_confidence": 0.2973656952381134,
+    "component_scores": {
+      "door": 0.044620297849178314,
+      "floor": 0.0002675452851690352,
+      "wall": 0.0019505538512021303,
+      "window": 0.0005196576239541173,
+      "ceiling": 0.00025155037292279303,
+      "electrical fitting": 0.7370481491088867,
+      "light fixture": 0.034540582448244095,
+      "fixture": 0.07273543626070023,
+      "plumbing fitting": 0.05596489831805229,
+      "sanitary ware": 0.0038916568737477064,
+      "shower enclosure": 0.036358896642923355,
+      "cabinetry": 0.01132185198366642,
+      "railing": 0.0005289677646942437
+    },
+    "condition_scores": {
+      "new or like-new fitting": 0.2973656952381134,
+      "good condition fitting": 0.2814736068248749,
+      "worn or aged fitting": 0.13616706430912018,
+      "damaged or missing fitting": 0.2849936783313751
+    }
+  },
+  "20250927_111504.jpg": {
+    "component": "electrical fitting",
+    "component_confidence": 0.8885818123817444,
+    "condition": "good condition fitting",
+    "condition_confidence": 0.363223671913147,
+    "component_scores": {
+      "door": 0.0005570892244577408,
+      "floor": 5.1458853704389185e-05,
+      "wall": 0.0005715296138077974,
+      "window": 0.00017724790086504072,
+      "ceiling": 0.00018258648924529552,
+      "electrical fitting": 0.8885818123817444,
+      "light fixture": 0.01835409365594387,
+      "fixture": 0.04544978588819504,
+      "plumbing fitting": 0.011483246460556984,
+      "sanitary ware": 0.0004801620962098241,
+      "shower enclosure": 0.033805061131715775,
+      "cabinetry": 0.00029890527366660535,
+      "railing": 6.9850448198849335e-06
+    },
+    "condition_scores": {
+      "new or like-new fitting": 0.34200549125671387,
+      "good condition fitting": 0.363223671913147,
+      "worn or aged fitting": 0.12609954178333282,
+      "damaged or missing fitting": 0.16867130994796753
+    }
+  },
+  "20250927_111445.jpg": {
+    "component": "floor",
+    "component_confidence": 0.9132221937179565,
+    "condition": "new flooring",
+    "condition_confidence": 0.6167424917221069,
+    "component_scores": {
+      "door": 0.016567807644605637,
+      "floor": 0.9132221937179565,
+      "wall": 0.0010913157602772117,
+      "window": 0.00030535258702002466,
+      "ceiling": 0.0009212280274368823,
+      "electrical fitting": 0.003726653289049864,
+      "light fixture": 0.0006607017130590975,
+      "fixture": 0.006855580490082502,
+      "plumbing fitting": 0.008679697290062904,
+      "sanitary ware": 0.0010196617804467678,
+      "shower enclosure": 0.004303380846977234,
+      "cabinetry": 0.04251681640744209,
+      "railing": 0.00012962630717083812
+    },
+    "condition_scores": {
+      "new flooring": 0.6167424917221069,
+      "good condition with minor wear": 0.20843753218650818,
+      "worn or scratched flooring": 0.08010809123516083,
+      "damaged flooring, chips stains or cracks": 0.09471194446086884
+    }
+  },
+  "20250927_111341.jpg": {
+    "component": "floor",
+    "component_confidence": 0.3996857702732086,
+    "condition": "new flooring",
+    "condition_confidence": 0.4231488108634949,
+    "component_scores": {
+      "door": 0.089790940284729,
+      "floor": 0.3996857702732086,
+      "wall": 0.26108697056770325,
+      "window": 0.026990177109837532,
+      "ceiling": 0.02862204983830452,
+      "electrical fitting": 0.01297143567353487,
+      "light fixture": 0.027471112087368965,
+      "fixture": 0.030866991728544235,
+      "plumbing fitting": 0.015569286420941353,
+      "sanitary ware": 0.002236922737210989,
+      "shower enclosure": 0.043897874653339386,
+      "cabinetry": 0.05106121674180031,
+      "railing": 0.009749145247042179
+    },
+    "condition_scores": {
+      "new flooring": 0.4231488108634949,
+      "good condition with minor wear": 0.2564702033996582,
+      "worn or scratched flooring": 0.14537502825260162,
+      "damaged flooring, chips stains or cracks": 0.1750059425830841
+    }
+  },
+  "20250927_111514.jpg": {
+    "component": "ceiling",
+    "component_confidence": 0.32944467663764954,
+    "condition": "worn or discoloured",
+    "condition_confidence": 0.6835024952888489,
+    "component_scores": {
+      "door": 0.08618602901697159,
+      "floor": 0.002864173613488674,
+      "wall": 0.019334085285663605,
+      "window": 0.056292369961738586,
+      "ceiling": 0.32944467663764954,
+      "electrical fitting": 0.1005898118019104,
+      "light fixture": 0.09908850491046906,
+      "fixture": 0.15988528728485107,
+      "plumbing fitting": 0.07891621440649033,
+      "sanitary ware": 0.0006270321900956333,
+      "shower enclosure": 0.042916394770145416,
+      "cabinetry": 0.019658377394080162,
+      "railing": 0.004197054076939821
+    },
+    "condition_scores": {
+      "freshly painted, like-new condition": 0.15928924083709717,
+      "good condition": 0.10921791195869446,
+      "worn or discoloured": 0.6835024952888489,
+      "damaged, cracks stains or peeling": 0.04799031838774681
+    }
+  },
+  "20250927_111538.jpg": {
+    "component": "electrical fitting",
+    "component_confidence": 0.40230345726013184,
+    "condition": "good condition fitting",
+    "condition_confidence": 0.6804434061050415,
+    "component_scores": {
+      "door": 0.000650060479529202,
+      "floor": 0.0006625594687648118,
+      "wall": 0.0007009056862443686,
+      "window": 0.00017333152936771512,
+      "ceiling": 0.00031344706076197326,
+      "electrical fitting": 0.40230345726013184,
+      "light fixture": 0.016182690858840942,
+      "fixture": 0.12792585790157318,
+      "plumbing fitting": 0.02229778654873371,
+      "sanitary ware": 0.23656560480594635,
+      "shower enclosure": 0.10474714636802673,
+      "cabinetry": 0.08730560541152954,
+      "railing": 0.00017153906810563058
+    },
+    "condition_scores": {
+      "new or like-new fitting": 0.15743234753608704,
+      "good condition fitting": 0.6804434061050415,
+      "worn or aged fitting": 0.0517469197511673,
+      "damaged or missing fitting": 0.11037731915712357
+    }
+  },
+  "20250927_111248.jpg": {
+    "component": "floor",
+    "component_confidence": 0.9305285811424255,
+    "condition": "new flooring",
+    "condition_confidence": 0.4549581706523895,
+    "component_scores": {
+      "door": 0.012893274426460266,
+      "floor": 0.9305285811424255,
+      "wall": 0.001048453152179718,
+      "window": 0.00022136341431178153,
+      "ceiling": 0.002003472065553069,
+      "electrical fitting": 0.001014141133055091,
+      "light fixture": 0.0004753773973789066,
+      "fixture": 0.004402465187013149,
+      "plumbing fitting": 0.005203047767281532,
+      "sanitary ware": 0.0016863816417753696,
+      "shower enclosure": 0.005139567423611879,
+      "cabinetry": 0.03500405699014664,
+      "railing": 0.0003797810641117394
+    },
+    "condition_scores": {
+      "new flooring": 0.4549581706523895,
+      "good condition with minor wear": 0.358676940202713,
+      "worn or scratched flooring": 0.09003984928131104,
+      "damaged flooring, chips stains or cracks": 0.09632506966590881
+    }
+  },
+  "20250927_111447.jpg": {
+    "component": "electrical fitting",
+    "component_confidence": 0.41213133931159973,
+    "condition": "new or like-new fitting",
+    "condition_confidence": 0.5615851283073425,
+    "component_scores": {
+      "door": 0.08405886590480804,
+      "floor": 0.006890529301017523,
+      "wall": 0.006013259757310152,
+      "window": 0.017496423795819283,
+      "ceiling": 0.0030038715340197086,
+      "electrical fitting": 0.41213133931159973,
+      "light fixture": 0.02460731565952301,
+      "fixture": 0.027529465034604073,
+      "plumbing fitting": 0.10749982297420502,
+      "sanitary ware": 0.009115315973758698,
+      "shower enclosure": 0.21013745665550232,
+      "cabinetry": 0.09127289056777954,
+      "railing": 0.00024341209791600704
+    },
+    "condition_scores": {
+      "new or like-new fitting": 0.5615851283073425,
+      "good condition fitting": 0.30163782835006714,
+      "worn or aged fitting": 0.05751502886414528,
+      "damaged or missing fitting": 0.07926204055547714
+    }
+  },
+  "20250927_111309.jpg": {
+    "component": "floor",
+    "component_confidence": 0.9696453809738159,
+    "condition": "new flooring",
+    "condition_confidence": 0.3723689615726471,
+    "component_scores": {
+      "door": 0.00492521608248353,
+      "floor": 0.9696453809738159,
+      "wall": 0.0008704805513843894,
+      "window": 0.00033043435541912913,
+      "ceiling": 0.0011674986453726888,
+      "electrical fitting": 0.001101102214306593,
+      "light fixture": 0.00044455219176597893,
+      "fixture": 0.0031564761884510517,
+      "plumbing fitting": 0.003841069992631674,
+      "sanitary ware": 0.0007014588336460292,
+      "shower enclosure": 0.0008866391144692898,
+      "cabinetry": 0.012802138924598694,
+      "railing": 0.00012759222590830177
+    },
+    "condition_scores": {
+      "new flooring": 0.3723689615726471,
+      "good condition with minor wear": 0.3341645896434784,
+      "worn or scratched flooring": 0.16494330763816833,
+      "damaged flooring, chips stains or cracks": 0.12852317094802856
+    }
+  },
+  "20250927_111454.jpg": {
+    "component": "electrical fitting",
+    "component_confidence": 0.6907495856285095,
+    "condition": "new or like-new fitting",
+    "condition_confidence": 0.343818724155426,
+    "component_scores": {
+      "door": 0.0022084987722337246,
+      "floor": 0.0004244334704708308,
+      "wall": 0.015238366089761257,
+      "window": 0.0009821637067943811,
+      "ceiling": 0.030228154733777046,
+      "electrical fitting": 0.6907495856285095,
+      "light fixture": 0.0978669598698616,
+      "fixture": 0.15270203351974487,
+      "plumbing fitting": 0.008029641583561897,
+      "sanitary ware": 8.812403393676504e-05,
+      "shower enclosure": 0.0010569001315161586,
+      "cabinetry": 0.0004046335816383362,
+      "railing": 2.048444002866745e-05
+    },
+    "condition_scores": {
+      "new or like-new fitting": 0.343818724155426,
+      "good condition fitting": 0.1618882715702057,
+      "worn or aged fitting": 0.17054349184036255,
+      "damaged or missing fitting": 0.3237495422363281
+    }
+  },
+  "20250927_111245.jpg": {
+    "component": "floor",
+    "component_confidence": 0.9499875903129578,
+    "condition": "new flooring",
+    "condition_confidence": 0.5546740889549255,
+    "component_scores": {
+      "door": 0.004068965557962656,
+      "floor": 0.9499875903129578,
+      "wall": 0.00725772837176919,
+      "window": 0.0005965409218333662,
+      "ceiling": 0.0025285028386861086,
+      "electrical fitting": 0.0018219139892607927,
+      "light fixture": 0.0006317924126051366,
+      "fixture": 0.007156310603022575,
+      "plumbing fitting": 0.0026743728667497635,
+      "sanitary ware": 0.0007985050906427205,
+      "shower enclosure": 0.002264478476718068,
+      "cabinetry": 0.01984959840774536,
+      "railing": 0.00036365518462844193
+    },
+    "condition_scores": {
+      "new flooring": 0.5546740889549255,
+      "good condition with minor wear": 0.24284294247627258,
+      "worn or scratched flooring": 0.08780321478843689,
+      "damaged flooring, chips stains or cracks": 0.11467980593442917
+    }
+  },
+  "20250927_111231.jpg": {
+    "component": "cabinetry",
+    "component_confidence": 0.6811787486076355,
+    "condition": "worn condition, misaligned doors or worn surfaces",
+    "condition_confidence": 0.7858657836914062,
+    "component_scores": {
+      "door": 0.02381257340312004,
+      "floor": 0.002024533925577998,
+      "wall": 0.027007639408111572,
+      "window": 0.005043725483119488,
+      "ceiling": 0.02581864222884178,
+      "electrical fitting": 0.0014573272783309221,
+      "light fixture": 0.0025448764208704233,
+      "fixture": 0.013022455386817455,
+      "plumbing fitting": 0.0005902797565795481,
+      "sanitary ware": 0.000905197870451957,
+      "shower enclosure": 0.0019644249696284533,
+      "cabinetry": 0.6811787486076355,
+      "railing": 0.21462959051132202
+    },
+    "condition_scores": {
+      "new or like-new condition": 0.02689710631966591,
+      "good condition with minor wear": 0.15410169959068298,
+      "worn condition, misaligned doors or worn surfaces": 0.7858657836914062,
+      "damaged condition, broken doors, drawers or countertop": 0.033135414123535156
+    }
+  },
+  "20250927_111502.jpg": {
+    "component": "electrical fitting",
+    "component_confidence": 0.7206500768661499,
+    "condition": "worn or aged fitting",
+    "condition_confidence": 0.2967072129249573,
+    "component_scores": {
+      "door": 0.00547068053856492,
+      "floor": 0.00015108186926227063,
+      "wall": 0.005056570749729872,
+      "window": 0.001078997040167451,
+      "ceiling": 0.0018849237821996212,
+      "electrical fitting": 0.7206500768661499,
+      "light fixture": 0.03160836175084114,
+      "fixture": 0.1583363115787506,
+      "plumbing fitting": 0.03125394508242607,
+      "sanitary ware": 0.0004244929295964539,
+      "shower enclosure": 0.04376082867383957,
+      "cabinetry": 0.0002847878204192966,
+      "railing": 3.8926529668970034e-05
+    },
+    "condition_scores": {
+      "new or like-new fitting": 0.22372214496135712,
+      "good condition fitting": 0.2701142728328705,
+      "worn or aged fitting": 0.2967072129249573,
+      "damaged or missing fitting": 0.20945636928081512
+    }
+  },
+  "20250927_111557.jpg": {
+    "component": "cabinetry",
+    "component_confidence": 0.9260103106498718,
+    "condition": "good condition with minor wear",
+    "condition_confidence": 0.6744224429130554,
+    "component_scores": {
+      "door": 0.000572112447116524,
+      "floor": 0.0008410703158006072,
+      "wall": 0.00028899445896968246,
+      "window": 0.00017988415493164212,
+      "ceiling": 4.58085814898368e-05,
+      "electrical fitting": 0.0054167164489626884,
+      "light fixture": 0.0009079042938537896,
+      "fixture": 0.011515188962221146,
+      "plumbing fitting": 0.0018387946765869856,
+      "sanitary ware": 0.051750026643276215,
+      "shower enclosure": 0.0005210454692132771,
+      "cabinetry": 0.9260103106498718,
+      "railing": 0.00011206220369786024
+    },
+    "condition_scores": {
+      "new or like-new condition": 0.1129961609840393,
+      "good condition with minor wear": 0.6744224429130554,
+      "worn condition, misaligned doors or worn surfaces": 0.15935681760311127,
+      "damaged condition, broken doors, drawers or countertop": 0.053224533796310425
+    }
+  },
+  "20250927_111531.jpg": {
+    "component": "cabinetry",
+    "component_confidence": 0.8623123168945312,
+    "condition": "worn condition, misaligned doors or worn surfaces",
+    "condition_confidence": 0.41974496841430664,
+    "component_scores": {
+      "door": 0.000385034189093858,
+      "floor": 0.00022076265304349363,
+      "wall": 0.0006638281047344208,
+      "window": 4.418934986460954e-05,
+      "ceiling": 0.0001879777410067618,
+      "electrical fitting": 0.011578046716749668,
+      "light fixture": 0.0005038927774876356,
+      "fixture": 0.0035702893510460854,
+      "plumbing fitting": 0.013309153728187084,
+      "sanitary ware": 0.037384938448667526,
+      "shower enclosure": 0.06961352378129959,
+      "cabinetry": 0.8623123168945312,
+      "railing": 0.00022602548415306956
+    },
+    "condition_scores": {
+      "new or like-new condition": 0.20864546298980713,
+      "good condition with minor wear": 0.3248174786567688,
+      "worn condition, misaligned doors or worn surfaces": 0.41974496841430664,
+      "damaged condition, broken doors, drawers or countertop": 0.0467921644449234
+    }
+  },
+  "20250927_111618.jpg": {
+    "component": "ceiling",
+    "component_confidence": 0.3532468378543854,
+    "condition": "worn or discoloured",
+    "condition_confidence": 0.554326593875885,
+    "component_scores": {
+      "door": 0.0012506888015195727,
+      "floor": 0.00021243658557068557,
+      "wall": 0.001274670590646565,
+      "window": 0.011783071793615818,
+      "ceiling": 0.3532468378543854,
+      "electrical fitting": 0.13328899443149567,
+      "light fixture": 0.09937839210033417,
+      "fixture": 0.26689302921295166,
+      "plumbing fitting": 0.04425680637359619,
+      "sanitary ware": 0.0009407064062543213,
+      "shower enclosure": 0.08339882642030716,
+      "cabinetry": 0.0038813562132418156,
+      "railing": 0.00019411943503655493
+    },
+    "condition_scores": {
+      "freshly painted, like-new condition": 0.24032174050807953,
+      "good condition": 0.19090627133846283,
+      "worn or discoloured": 0.554326593875885,
+      "damaged, cracks stains or peeling": 0.014445413835346699
+    }
+  },
+  "20250927_111407.jpg": {
+    "component": "window",
+    "component_confidence": 0.8867413997650146,
+    "condition": "good condition with minor wear",
+    "condition_confidence": 0.5659993290901184,
+    "component_scores": {
+      "door": 0.015809759497642517,
+      "floor": 0.0026692149695008993,
+      "wall": 0.00521483737975359,
+      "window": 0.8867413997650146,
+      "ceiling": 0.0008332916768267751,
+      "electrical fitting": 0.000244688184466213,
+      "light fixture": 0.001136799925006926,
+      "fixture": 0.003450757125392556,
+      "plumbing fitting": 0.00037947954842820764,
+      "sanitary ware": 6.440563447540626e-05,
+      "shower enclosure": 0.0012430582428351045,
+      "cabinetry": 1.6854719433467835e-05,
+      "railing": 0.08219554275274277
+    },
+    "condition_scores": {
+      "new or like-new frame and glass": 0.05656914412975311,
+      "good condition with minor wear": 0.5659993290901184,
+      "worn frame or scratched glass": 0.29625359177589417,
+      "damaged frame or glass, cracks rust or broken seals": 0.08117789775133133
+    }
+  },
+  "20250927_111220.jpg": {
+    "component": "floor",
+    "component_confidence": 0.4164172112941742,
+    "condition": "new flooring",
+    "condition_confidence": 0.3892400562763214,
+    "component_scores": {
+      "door": 0.10751355439424515,
+      "floor": 0.4164172112941742,
+      "wall": 0.01941159926354885,
+      "window": 0.010947144590318203,
+      "ceiling": 0.006533710286021233,
+      "electrical fitting": 0.008782833814620972,
+      "light fixture": 0.0038337097503244877,
+      "fixture": 0.03146975487470627,
+      "plumbing fitting": 0.03239930421113968,
+      "sanitary ware": 0.010147769935429096,
+      "shower enclosure": 0.07101470977067947,
+      "cabinetry": 0.2548329830169678,
+      "railing": 0.02669571153819561
+    },
+    "condition_scores": {
+      "new flooring": 0.3892400562763214,
+      "good condition with minor wear": 0.3290640115737915,
+      "worn or scratched flooring": 0.2108791023492813,
+      "damaged flooring, chips stains or cracks": 0.07081682235002518
+    }
+  },
+  "20250927_111657.jpg": {
+    "component": "ceiling",
+    "component_confidence": 0.7931417226791382,
+    "condition": "worn or discoloured",
+    "condition_confidence": 0.6084153652191162,
+    "component_scores": {
+      "door": 0.0011577032273635268,
+      "floor": 0.0002928511530626565,
+      "wall": 0.0011727133532986045,
+      "window": 0.002818537410348654,
+      "ceiling": 0.7931417226791382,
+      "electrical fitting": 0.02169734612107277,
+      "light fixture": 0.042216233909130096,
+      "fixture": 0.05033797025680542,
+      "plumbing fitting": 0.034808095544576645,
+      "sanitary ware": 0.0008073550998233259,
+      "shower enclosure": 0.008068813942372799,
+      "cabinetry": 0.03646945580840111,
+      "railing": 0.007011282257735729
+    },
+    "condition_scores": {
+      "freshly painted, like-new condition": 0.20617148280143738,
+      "good condition": 0.1445797085762024,
+      "worn or discoloured": 0.6084153652191162,
+      "damaged, cracks stains or peeling": 0.040833424776792526
+    }
+  },
+  "20250927_111635.jpg": {
+    "component": "ceiling",
+    "component_confidence": 0.8463616967201233,
+    "condition": "worn or discoloured",
+    "condition_confidence": 0.7085592150688171,
+    "component_scores": {
+      "door": 0.008560076355934143,
+      "floor": 0.002053313422948122,
+      "wall": 0.011999949812889099,
+      "window": 0.01813904009759426,
+      "ceiling": 0.8463616967201233,
+      "electrical fitting": 0.015679478645324707,
+      "light fixture": 0.03308120369911194,
+      "fixture": 0.035950083285570145,
+      "plumbing fitting": 0.013199013657867908,
+      "sanitary ware": 0.0002829080622177571,
+      "shower enclosure": 0.00541178323328495,
+      "cabinetry": 0.005282074678689241,
+      "railing": 0.003999458625912666
+    },
+    "condition_scores": {
+      "freshly painted, like-new condition": 0.1407558172941208,
+      "good condition": 0.0923423171043396,
+      "worn or discoloured": 0.7085592150688171,
+      "damaged, cracks stains or peeling": 0.05834263563156128
+    }
+  },
+  "20250927_111614.jpg": {
+    "component": "floor",
+    "component_confidence": 0.34937015175819397,
+    "condition": "new flooring",
+    "condition_confidence": 0.3894233703613281,
+    "component_scores": {
+      "door": 0.021909980103373528,
+      "floor": 0.34937015175819397,
+      "wall": 0.04852011427283287,
+      "window": 0.003297945251688361,
+      "ceiling": 0.23465000092983246,
+      "electrical fitting": 0.07416646182537079,
+      "light fixture": 0.014590209349989891,
+      "fixture": 0.03504478186368942,
+      "plumbing fitting": 0.14507357776165009,
+      "sanitary ware": 0.0004537852655630559,
+      "shower enclosure": 0.004394366405904293,
+      "cabinetry": 0.04833666607737541,
+      "railing": 0.020191887393593788
+    },
+    "condition_scores": {
+      "new flooring": 0.3894233703613281,
+      "good condition with minor wear": 0.28725454211235046,
+      "worn or scratched flooring": 0.09452417492866516,
+      "damaged flooring, chips stains or cracks": 0.22879792749881744
+    }
+  },
+  "20250927_111650.jpg": {
+    "component": "ceiling",
+    "component_confidence": 0.7417393922805786,
+    "condition": "worn or discoloured",
+    "condition_confidence": 0.43354514241218567,
+    "component_scores": {
+      "door": 0.008032231591641903,
+      "floor": 0.0016831783577799797,
+      "wall": 0.014829236082732677,
+      "window": 0.009778688661754131,
+      "ceiling": 0.7417393922805786,
+      "electrical fitting": 0.02107168734073639,
+      "light fixture": 0.10895238071680069,
+      "fixture": 0.06255010515451431,
+      "plumbing fitting": 0.0028658327646553516,
+      "sanitary ware": 0.0007031710701994598,
+      "shower enclosure": 0.015873104333877563,
+      "cabinetry": 0.01122259721159935,
+      "railing": 0.0006984365754760802
+    },
+    "condition_scores": {
+      "freshly painted, like-new condition": 0.22314651310443878,
+      "good condition": 0.2310975193977356,
+      "worn or discoloured": 0.43354514241218567,
+      "damaged, cracks stains or peeling": 0.11221087723970413
+    }
+  },
+  "20250927_111331.jpg": {
+    "component": "floor",
+    "component_confidence": 0.9786762595176697,
+    "condition": "new flooring",
+    "condition_confidence": 0.4488222002983093,
+    "component_scores": {
+      "door": 0.0010323073947802186,
+      "floor": 0.9786762595176697,
+      "wall": 0.0025670749600976706,
+      "window": 0.00014484379789792,
+      "ceiling": 0.0014031227910891175,
+      "electrical fitting": 0.0026388259138911963,
+      "light fixture": 0.00027627701638266444,
+      "fixture": 0.003110215999186039,
+      "plumbing fitting": 0.0036882988642901182,
+      "sanitary ware": 0.00025407306384295225,
+      "shower enclosure": 0.0009232053998857737,
+      "cabinetry": 0.005115882493555546,
+      "railing": 0.0001696211111266166
+    },
+    "condition_scores": {
+      "new flooring": 0.4488222002983093,
+      "good condition with minor wear": 0.20713376998901367,
+      "worn or scratched flooring": 0.11624382436275482,
+      "damaged flooring, chips stains or cracks": 0.22780022025108337
+    }
+  },
+  "20250927_111600.jpg": {
+    "component": "cabinetry",
+    "component_confidence": 0.389741450548172,
+    "condition": "worn condition, misaligned doors or worn surfaces",
+    "condition_confidence": 0.4036586582660675,
+    "component_scores": {
+      "door": 0.002350384369492531,
+      "floor": 0.0032290276139974594,
+      "wall": 0.0034636592026799917,
+      "window": 0.0014114920049905777,
+      "ceiling": 0.001996629638597369,
+      "electrical fitting": 0.03207826614379883,
+      "light fixture": 0.08314582705497742,
+      "fixture": 0.13805356621742249,
+      "plumbing fitting": 0.011758693493902683,
+      "sanitary ware": 0.2364393025636673,
+      "shower enclosure": 0.0950925424695015,
+      "cabinetry": 0.389741450548172,
+      "railing": 0.001239165780134499
+    },
+    "condition_scores": {
+      "new or like-new condition": 0.08583592623472214,
+      "good condition with minor wear": 0.39977243542671204,
+      "worn condition, misaligned doors or worn surfaces": 0.4036586582660675,
+      "damaged condition, broken doors, drawers or countertop": 0.1107330173254013
+    }
+  },
+  "20250927_111615.jpg": {
+    "component": "ceiling",
+    "component_confidence": 0.3800053000450134,
+    "condition": "worn or discoloured",
+    "condition_confidence": 0.7637656927108765,
+    "component_scores": {
+      "door": 0.0018528086366131902,
+      "floor": 0.0019676003139466047,
+      "wall": 0.0029067988507449627,
+      "window": 0.0008857174543663859,
+      "ceiling": 0.3800053000450134,
+      "electrical fitting": 0.15723009407520294,
+      "light fixture": 0.12594623863697052,
+      "fixture": 0.0464647151529789,
+      "plumbing fitting": 0.11110519617795944,
+      "sanitary ware": 0.0014713447308167815,
+      "shower enclosure": 0.02899436093866825,
+      "cabinetry": 0.13993193209171295,
+      "railing": 0.0012378838146105409
+    },
+    "condition_scores": {
+      "freshly painted, like-new condition": 0.07360401749610901,
+      "good condition": 0.07870439440011978,
+      "worn or discoloured": 0.7637656927108765,
+      "damaged, cracks stains or peeling": 0.08392593264579773
+    }
+  },
+  "20250927_111411.jpg": {
+    "component": "window",
+    "component_confidence": 0.7289978265762329,
+    "condition": "good condition with minor wear",
+    "condition_confidence": 0.8094186782836914,
+    "component_scores": {
+      "door": 0.030137235298752785,
+      "floor": 0.0020625272300094366,
+      "wall": 0.014494271017611027,
+      "window": 0.7289978265762329,
+      "ceiling": 0.00047016964526847005,
+      "electrical fitting": 0.002451653126627207,
+      "light fixture": 0.0004648400063160807,
+      "fixture": 0.003944047726690769,
+      "plumbing fitting": 0.013576016761362553,
+      "sanitary ware": 0.0049180518835783005,
+      "shower enclosure": 0.09768860042095184,
+      "cabinetry": 0.003124059410765767,
+      "railing": 0.09767071902751923
+    },
+    "condition_scores": {
+      "new or like-new frame and glass": 0.04916800931096077,
+      "good condition with minor wear": 0.8094186782836914,
+      "worn frame or scratched glass": 0.11321326345205307,
+      "damaged frame or glass, cracks rust or broken seals": 0.028200047090649605
+    }
+  },
+  "20250927_111637.jpg": {
+    "component": "ceiling",
+    "component_confidence": 0.7131209373474121,
+    "condition": "worn or discoloured",
+    "condition_confidence": 0.600741446018219,
+    "component_scores": {
+      "door": 0.006174590438604355,
+      "floor": 0.001916169305332005,
+      "wall": 0.01104717142879963,
+      "window": 0.008052017539739609,
+      "ceiling": 0.7131209373474121,
+      "electrical fitting": 0.05494091659784317,
+      "light fixture": 0.0910438671708107,
+      "fixture": 0.06253684312105179,
+      "plumbing fitting": 0.033623550087213516,
+      "sanitary ware": 0.0006688965950161219,
+      "shower enclosure": 0.0034807047341018915,
+      "cabinetry": 0.010294955223798752,
+      "railing": 0.0030993595719337463
+    },
+    "condition_scores": {
+      "freshly painted, like-new condition": 0.13497920334339142,
+      "good condition": 0.15461279451847076,
+      "worn or discoloured": 0.600741446018219,
+      "damaged, cracks stains or peeling": 0.10966659337282181
+    }
+  },
+  "20250927_111321.jpg": {
+    "component": "floor",
+    "component_confidence": 0.9331074357032776,
+    "condition": "new flooring",
+    "condition_confidence": 0.5414161682128906,
+    "component_scores": {
+      "door": 0.004615663085132837,
+      "floor": 0.9331074357032776,
+      "wall": 0.006755756679922342,
+      "window": 0.0005512665375135839,
+      "ceiling": 0.0026320884935557842,
+      "electrical fitting": 0.003810147289186716,
+      "light fixture": 0.0009819070110097528,
+      "fixture": 0.01592799462378025,
+      "plumbing fitting": 0.008614744059741497,
+      "sanitary ware": 0.0009594392613507807,
+      "shower enclosure": 0.0013513574376702309,
+      "cabinetry": 0.01999441720545292,
+      "railing": 0.0006977892480790615
+    },
+    "condition_scores": {
+      "new flooring": 0.5414161682128906,
+      "good condition with minor wear": 0.22481723129749298,
+      "worn or scratched flooring": 0.10066056251525879,
+      "damaged flooring, chips stains or cracks": 0.1331060826778412
+    }
+  },
+  "20250927_111456.jpg": {
+    "component": "electrical fitting",
+    "component_confidence": 0.39266619086265564,
+    "condition": "new or like-new fitting",
+    "condition_confidence": 0.34101447463035583,
+    "component_scores": {
+      "door": 0.02250676043331623,
+      "floor": 0.0005710385157726705,
+      "wall": 0.00354051124304533,
+      "window": 0.01145721785724163,
+      "ceiling": 0.015140441246330738,
+      "electrical fitting": 0.39266619086265564,
+      "light fixture": 0.2829207479953766,
+      "fixture": 0.2372758388519287,
+      "plumbing fitting": 0.02162274904549122,
+      "sanitary ware": 0.0011422453681007028,
+      "shower enclosure": 0.010659237392246723,
+      "cabinetry": 0.0004449653497431427,
+      "railing": 5.2011575462529436e-05
+    },
+    "condition_scores": {
+      "new or like-new fitting": 0.34101447463035583,
+      "good condition fitting": 0.23586446046829224,
+      "worn or aged fitting": 0.22862555086612701,
+      "damaged or missing fitting": 0.19449549913406372
+    }
+  }
+}
